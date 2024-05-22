@@ -1,28 +1,37 @@
 import pandas as pd
-with open('C:\\Users\\thuylt15\\PycharmProjects\\aday\\anki\\the_atmostphere.txt', 'r') as f:
-    lines = f.readlines()
+import datetime
+import os
 
-    data = [line.strip() for line in lines if line.strip()!='']
+path = "C:/Users/Seni/PycharmProjects/adayofTracy/anki/filetxt"
 
-    print(data)
-    questions = data[0::6]
-    col2 = data[1::6]
-    col3 = data[2::6]
-    col4 = data[3::6]
-    col5 = data[4::6]
-    answers = data[5::6]
-    print(len(questions))
-    print(len(col2))
-    print(len(col3))
-    print(len(col4))
-    print(len(col5))
-    print(len(answers))
-    print(questions[-2:])
-    df = pd.DataFrame({'question': questions,
-                       'col2': col2,
-                       'col3': col3,
-                       'col4': col4,
-                       'col5': col5,
-                       'answer': answers})
-    df.head()
+file_names = [ str(f).replace('.txt','') for f in os.listdir(path)]
+print(file_names)
+for file_name in file_names:
+    file_path = path + "/" + file_name + '.txt'
+    with (open(file_path, 'r') as f):
+        lines = f.read()
+
+        data_str = lines.replace('\n','$').replace('$$','$').replace('$$','$')
+        data_str = data_str.replace('$a)', '\n').replace('$b)', '\n').replace('$c)', '\n').replace('$d)', '\n')
+        data_str = data_str.replace('$B$', '\n2\n').replace('$A$','\n1\n').replace('$C$','\n3\n').replace('$D$','\n4\n')
+        data = data_str.split('\n')
+        print(data)
+        print(len(data[0:-1:6]), len(data[1::6]), len(data[2::6]), len(data[3::6]), len(data[4::6]), len(data[5::6]))
+        stt = [str(i)+ file_name for i in range(len(data[1::6]))]
+        data_df = pd.DataFrame({'stt': stt,
+                                'type': '',
+                                "question": data[0:-1:6],
+                                "answer1": data[1::6],
+                                'answer2': data[2::6],
+                                'answer3': data[3::6],
+                                'answer4': data[4::6],
+                                'key':data[5::6]
+                                })
+        data_df = data_df.dropna()
+
+        file_path_csv = 'C:/Users/Seni/PycharmProjects/adayofTracy/anki/filecsv' + "/" + file_name + '.csv'
+        data_df.to_csv(file_path_csv, sep = '|', index = None)
+
+
+
 
