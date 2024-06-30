@@ -1,0 +1,85 @@
+183. Exposure time can be defined as:
+a) The time between DPATO and DPB
+b) Operations where a safe forced landing or safe continuation of the flight is not guaranteed with the critical engine inoperative
+c) The time between TDP and the DPATO
+d) Operations in a hostile sea area
+ B
+184. For take off with a tail wind component in class 2 performance an operator must take account of at least:
+a) 80% of the reported tail wind component
+b) 50% of the reported tail wind component
+c) 120% of the reported tail wind component
+d) 150% of the reported tail wind component
+ D
+185. In PC2 at what stage in the approach must it be capable of carrying out a baulked landing.
+a) At 500 ft
+b) At 1000 ft
+c) From the commencement of the approach.
+d) After the DPATO.
+ C
+186. Unless otherwise approved, a Performance Class 2 take-off must be conducted such that a safe forced landing can be executed until...
+a) within 1 second of the end of the exposure time.
+b) the end of the exposure time, which must be at least 12 seconds.
+c) just after rotation.
+d) the point where safe continuation of the flight is possible.
+ D
+187. When calculating the performance of a Class 2 helicopter with one engine inoperative on the approach to land, the following must be considered:
+a) The ETA.
+b) The height of obstructions on the go round.
+c) The surface of the landing site.
+d) The pressure altitude.
+ D
+188. For PC2 from what stage in the approach must it be possible to carry out a baulked landing?
+a) LDP. Landing Decision Point.
+b) 1000 ft
+c) DPATO. Defined Point After Take-off.
+d) From the commencement of the approach.
+ D
+189. A helicopter operating in Performance Class 2 is taking off. As a minimum, the take-off flight path requirements for Performance Class 1 must be met with the critical engine inoperative from the DPATO or, as an alternative, NO later than...
+a) 1000 ft above the take-off surface.
+b) 150 ft above the take-off surface.
+c) 200 ft above the take-off surface.
+d) 500 ft above the take-off surface.
+ C
+190. What is the maximum allowable wind speed for Helideck Operations?
+a) 60 Kts
+b) 40 Kts
+c) 50kts
+d) 30 Kts
+ A
+191. The part of the take-off path during which, in Performance Class 2, an engine failure would result in a forced landing must be flown in:
+a) VMC.
+b) A headwind.
+c) IMC.
+d) Conditions of weather and light in which a safe landing is possible.
+ D
+192. A helicopter operating in Performance Class 2 is about to land at an oil rig when one engine fails between the DPBL and the committal point. What option will ensure the best protection for the persons in the helicopter?
+a) safe forced landing on the sea.
+b) An autorotation on the sea.
+c) A balked landing.
+d) A normal landing on the oil rig helideck.
+ A
+193. When considering the take-off path for a helicopter with Performance Class 2, the aircraft must clear all obstacles vertically by:
+a) 35 ft in VFR
+b) 35 ft + 0.001 DR in IFR
+c) 35 ft in IFR
+d) 10.7 m + 0.01 DR in VFR
+A
+194. For a Performance Class 2 helicopter with one engine inoperative, on take-off, the rate of climb at 1000 ft above the heliport must be at least:
+a) 100 ft/min
+b) 150 ft/min
+c) 300 ft/min
+d) 50 ft/min
+ B
+195. When operating a PC2 helicopter to a helideck with a MOPSC of
+, __(1)_ the take -off  mass must take into account the procedure, deck edge miss and drop down appropriate to the height of the helideck with _____(2)______
+a) (1) more than 19 (2) all power units operating at the appropriate power rating.
+b) (1) MOPSC of 19 or more, (2) the remaining power units operating at the appropriate power rating.
+c) (1) more than 19, (2) the critical power unit inoperative and the remaining power units operating at the appropriate power rating.
+d) (1) 19, (2) the critical power unit inoperative and the remaining power units operating at the appropriate power rating.
+ C
+196. Which statement is correct for Performance Class 2 operations?
+a) Minimum ROC at 1000 ft is 100 fpm
+b) The take-off path extends to 1500 ft
+c) The headwind component must be factored by 150%
+d) Performance Class 2 take-off's must be conducted within sight of the surface
+ D

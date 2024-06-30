@@ -8,7 +8,8 @@ file_names = [ str(f).replace('.txt','') for f in os.listdir(path)]
 print(file_names)
 for file_name in file_names:
     file_path = path + "/" + file_name + '.txt'
-    with (open(file_path, 'r') as f):
+    with (open(file_path,encoding="utf-8") as f):
+
         lines = f.read()
 
         data_str = lines.replace('\n','$').replace('$$','$').replace('$$','$').replace('\t','')
@@ -17,11 +18,9 @@ for file_name in file_names:
         data_str = data_str.replace('$b$', '\n2\n').replace('$a$', '\n1\n').replace('$c$', '\n3\n').replace('$d$',
                                                                                                             '\n4\n')
         data = data_str.split('\n')
-        print(data)
+        print('|'.join(data[0:-1:6]))
         print(len(data[0:-1:6]), len(data[1::6]), len(data[2::6]), len(data[3::6]), len(data[4::6]), len(data[5::6]))
         stt = [str(i)+ file_name for i in range(len(data[1::6]))]
-        with pd.ExcelWriter('test.xlsx', mode='a') as writer:
-            pd.DataFrame(data[0:-1:6]).to_excel('test.xlsx', sheet_name='sheet1')
 
         data_df = pd.DataFrame({'stt': stt,
                                 'type': '',
