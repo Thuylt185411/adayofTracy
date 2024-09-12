@@ -1,0 +1,2135 @@
+
+I.	GENERAL
+1. What does the abbreviation "VLO" mean?
+a) Maximum landing gear extended speed
+b) Minimum landing gear extended speed
+c) Maximum landing gear operating speed
+d) Maximum low level speed
+ C
+2. In a power-off autorotation in still air, to obtain the maximum glide range, the helicopter should be flown:
+a) At a speed close to the VNE.
+b) At a speed close to maximum endurance speed.
+c) At a speed close to the vne power-on.
+d) At a speed close to the best range speed and with minimum rotor speed without exceeding the VNE power-off.
+D
+3. What does the abbreviation "VY" mean?
+a) Speed for best rate of climb
+b) Best approach speed
+c) Speed for best angle of climb
+d) Take-off decision speed
+A
+4. Which of these statements concerning the airworthiness requirements of CS-27 and CS-29 are correct or incorrect?
+1. The airworthiness requirements of CS-29 are applicable to small single-engined helicopters.
+2. Both CS-27 and CS-29 airworthiness requirements are exclusively applicable to aircraft operated in Commercial Air Transport (CAT) or Specialised Operations (SPO).
+a) 1 is correct, 2 is incorrect.
+b) Both 1 and 2 are incorrect.
+c) 1 is incorrect, 2 is correct.
+d) Both 1 and 2 are correct.
+B
+5. Maximum range for a helicopter:
+a) Will be obtained at sea level.
+b) Will be obtained at the optimum altitude.
+c) Is independent of altitude.
+d) Will be obtained at the absolute ceiling.
+B
+6. When climbing at a constant CAS in standard atmosphere:
+a) TAS decreases.
+b) TAS remains constant.
+c) TAS increases.
+d) TAS first decreases, then remains constant above the tropopause.
+C
+7. Where is Vy on the power required curve?
+a) On the tangent from the origin
+b) Tangent to the max power available
+c) Bottom of the curve
+d) Tangent to the min power available
+C
+8. The abbreviation VLE means:
+a) Maximum speed to retract the landing gear
+b) Maximum speed to operate the landing gear
+c) Maximum speed to extend the landing gear
+d) Maximum landing gear extended speed
+D
+9. A head wind will:
+a) Increase the climb flight path angle.
+b) Shorten the time to a given altitude.
+c) Increase the rate of climb.
+d) Increase the angle of climb.
+A
+10. The tangent from the origin to the power required against true airspeed curve, for a helicopter determines the speed for:
+a) Maximum specific range
+b) Minimum power
+c) Maximum endurance
+d) Critical angle of attack
+A
+11. Flying in a straight line at constant airspeed, a head wind:
+a) Increases the distance required to descent 100 m
+b) Increases the climb gradient
+c) Decreases the climb gradient
+d) Has no effect on the climb gradient
+D
+12. (Refer to image)
+Which letter indicates the speed for the best rate of climb?
+a) D
+b) A
+c) C
+d) B
+Annex 034-14055
+
+D
+13. When flying for range and you encounter a headwind you should?
+a) Increase your speed.
+b) Maintain your speed.
+c) Maintain your speed and reduce rotor rpm.
+d) Decrease your speed.
+A
+14. Define the term "Performance Class 1".
+a) Performance Class 1 helicopters means multi-engine helicopters based on a critical engine failure concept which assures performance capability for continued safe flight in the event of an engine failure.
+b) Performance Class 1 operations are those operations such that, in the event of a power unit failure at any time during the flight, a forced landing may be required in a multi-engine helicopter but will be required in a single engine helicopter.
+c) Performance Class 1 operations are those with performance such that, in the event of failure of the critical power unit, the helicopter is able to land within the rejected take-off distance available or safely continue the flight to an appropriate landing
+d) Performance Class 1 operations are those operations such that, in the event of critical power unit failure, performance is available to enable the helicopter to safely continue the flight, except when the failure occurs early during the take-off manoeuvre
+C
+15. The "climb gradient" is defined as the ratio of:
+a) True airspeed to rate of climb
+b) The increase of altitude to horizontal air distance expressed as a percentage
+c) Rate of climb to true airspeed
+d) The increase of altitude to distance over ground expressed as a percentage
+B
+16. What does the abbreviation "VLE" mean?
+a) Maximum landing gear operating speed
+b) Maximum landing gear extended speed
+c) Minimum level speed
+d) Maximum level speed
+B
+17. Consider the take-off climb in a helicopter operating in Performance Class 1. Which
+statement is true about the effects of changing the helicopter's configuration on the power required to fly at the correct speed for the procedure?
+a) Lowering the landing gear will decrease the power required.
+b) Raising the landing gear will decrease the power required.
+c) Raising the landing gear will increase the power required.
+d) Lowering the landing gear will NOT affect the power required.
+B
+18. Which of the following is a 'congested' area?
+a) farmland
+b) forest
+c) field containing animals
+d) Golf course
+D
+19. What is the effect on WY with increasing mass?
+a) Increases
+b) Decreases
+c) Constant
+d) Decreases then increases
+A
+20. Category A helicopters are defined as:
+a) Multi-engine helicopters designed with engine and system isolation features, as specified in CS27/29, based on a critical engine failure concept which assures adequate designated surface area and adequate performance capability for continued safe flight in the event of an engine failure.
+b) Single-engine or multi-engine helicopters which do not fully meet all Category A standards. Category A helicopters have no guaranteed stay-up ability in the event of engine failure and unscheduled landing is assumed.
+c) Single-engine or multi-engine helicopters which do not fully meet all Category A standards. Category B helicopters have no guaranteed stay-up ability in the event of engine failure and unscheduled landing is assumed.
+d) Multi-engine helicopters designed with engine and system isolation features, as specified in CS27/29, based on a critical engine failure concept which does not assure adequate designated surface area and adequate performance capability for continued safe flight in the event of an engine failure.
+A
+21. An elevated heliport or helideck is defined as one where the FATO is above the surrounding level by:
+a) 10 m
+b) 13 m
+c) 3 m
+d) 3 ft
+D
+22. Define manufacturer's maximum cruising speed (VH):
+a) Maximum hover height
+b) Maximum speed at the service ceiling
+c) Maximum level flight speed with MCP set
+d) Optimum drift down speed
+C
+23. What defines service ceiling?
+a) The altitude at which the aircraft can achieve a 200 fpm Rate of climb
+b) The altitude at which the aircraft can achieve a low specific rate of climb
+c) The altitude at which the aircraft can achieve a 150 fpm Rate of climb
+d) The altitude at which the aircraft can achieve no rate of Climb
+B
+24. (Refer to image)
+Which letter indicates the speed for best range?
+a) A
+b) B
+c) C
+d) D
+Annex 034-14055
+
+C
+25. Helicopters with a MOPSC of more than 19 must be operated in which Performance Class
+a) Performance class 1
+b) Performance class 3
+c) Performance class 2
+d) Performance class 1,2 or 3
+A
+26. The bottom of the power required curve is:
+a) VMR
+b) VMAX
+c) VMD
+d) VMP
+D
+27. Which one of the following correctly defines the airspeed for best endurance?
+a) The greatest forward speed attainable at the highest possible power required.
+b) The greatest forward speed attainable at the lowest possible power required.
+c) The speed where the difference between the power available and the power required is smallest.
+d) The speed where the difference between the power available and the power required is greatest.
+D
+28. The abbreviation VTOSS means:
+a) Threshold operating safety speed
+b) Take-off safety speed for a category A rotorcraft
+c) Steady flight speed
+d) Stall speed
+B
+29. The take-off path of a helicopter, from the start of take-off, extends to a point above the take-off surface, which is:
+a) 500 ft
+b) 1000 ft
+c) 100 ft
+d) 1500 ft
+B
+30. Which statement is correct.
+a) A HIGE decreases the induced flow and increases the angle of attack. Power required increases
+b) A HIGE increases the induced flow and increases the angle of attack. Power required reduces.
+c) A HIGE decreases the induced flow and increases the angle of attack. Power required reduces.
+d) A HOGE decreases the induced flow and increases the angle of attack. Power required reduces
+D
+31. Without an approved method of control and supervision of flight operations who is the only person that operational control can be delegated to?
+a) The person nominated to supervise flight operations.
+b) The commander or the flight despatcher.
+c) The flight despatcher.
+d) The commander.
+D
+32. Performance Class 1 helicopters must be certificated in:
+a) Category A or B
+b) Category B
+c) JAR-OPS 3
+d) Category A
+D
+33. Which of the following statements is correct?
+a) PC1 is only applicable to helicopters with a MAPSC of more than 19 passengers
+b) PC2 is only applicable to helicopters with a MAPSC of 9-19 passengers
+c) PC3 is only applicable to helicopters with a MAPSC of less than 19 passengers
+d) PC1 is applicable to helicopters with a MAPSC of more than 19 passengers or helicopters operating to/from heliports/helidecks located in a congested, hostile environment.
+D
+34. The rate of climb will be negatively affected by:
+a) High pressure altitude, turning flight, low temperature.
+b) High temperature, high pressure altitude, contaminated rotor blades.
+c) Low pressure altitude, high mass, high temperature.
+d) High gross mass of helicopter, low temperature, high humidity.
+B
+35. When flying for range in a headwind, the range speed:
+a) Is unaffected.
+b) Wind only affects the endurance speed.
+c) Increases.
+d) Decreases.
+C
+36. VY is the maximum altitude gained versus…..?
+a) Thrust
+b) Time.
+c) Fuel.
+d) Power.
+B
+37. Define the term "Performance Class 3".
+a) Performance Class 3 operations are those with performance such that, in the event of failure of the critical power unit, the helicopter is able to land within the rejected take-off distance available or safely continue the flight to an appropriate landing.
+b) Performance Class 3 helicopters means multi-engine helicopters based on a critical engine failure concept which assures performance capability for continued safe flight in the event of an engine failure.
+c) Performance Class 3 operations are those operations such that, in the event of a power unit failure at any time during the flight, a forced landing may be required in a multi-engine helicopter but will be required in a single engine helicopter.
+d) Performance Class 3 helicopters means single-engine or multi-engine helicopters which do not fully meet all class 2 standards. Class 3 helicopters have no guaranteed stay-up ability in the event of engine failure and unscheduled landing is assumed.
+C
+38. VNE means the speed:
+a) For normal operating.
+b) Never to be used.
+c) Not achievable.
+d) Never to be exceeded.
+D
+39. Which of the following statements is correct for a take-off from a clear airfield using procedure 1.
+a) If an engine failure occurs before TDP land immediately. If the engine fails at or after CDP continue the climb out.
+b) If an engine failure occurs before CDP land immediately. If the engine fails at or after CDP continue the climb out.
+c) If an engine failure occurs before CDP land immediately. If the engine fails at or after CDP a safe landing procedure should be initiated.
+d) If an engine failure occurs before CDP land immediately. If the engine fails at or after CDP continue the climb out at VY.
+B
+40. In the context of performance planning, DR means:
+a) The horizontal distance to the first significant obstacle.
+b) The horizontal distance travelled from the end of the take-off distance available.
+c) The horizontal distance remaining to the end of the TODAH.
+d) The range to the first waypoint.
+B
+41. A helideck is a:
+a) Elevated heliport at sea
+b) Heliport located on a floating fixed off-shore structure
+c) Heliport on top of a tower block
+d) Heliport along the coastline
+B
+42. What is the abbreviation for the term "Maximum landing gear operating speed"?
+a) VLG
+b) VGO
+c) VLE
+d) VLO
+D
+43. What happens to the endurance speed with increasing altitude when expressed as a TAS?
+a) Decreases.
+b) Stays constant.
+c) Stays constant as the temperature decreases.
+d) Increases.
+D
+44. Minimum ROD is flown at?
+a) VMIN
+b) VMR
+c) VMD
+d) VMP
+D
+45. How does Density Altitude differ from Pressure Altitude?
+a) Density Altitude is not affected by Pressure Altitude.
+b) When temperature is lower than ISA Density Altitude is higher than Pressure Altitude.
+c) When temperature is higher than ISA then Density Altitude is higher.
+d) Density Altitude and Pressure Altitude are always the same.
+C
+46. A Safe forced landing is a landing:
+a) A forced landing in which it can be reasonably hoped that there will be no injuries.
+b) A landing or ditching which is unavoidable and in which it can be reasonably hoped that there will be no injuries to the occupants of the helicopter.
+c) Unavoidable landing or ditching with a reasonable expectancy of no injuries to persons in the aircraft or on the surface.
+d) Unavoidable landing on ground with a reasonable expectancy of no injuries to persons in the aircraft or on the surface.
+C
+47. "Performance Class 1" operations are classified as:
+a) Performance Class 1 operations are those operations such that, in the event of critical power unit failure, performance is available to enable the helicopter to safely continue the flight, except when the failure occurs early during the take-off manoeuvre
+b) Performance Class 1 operations are those operations such that, in the event of a power unit failure at any time during the flight, a forced landing may be required in a multi-engine helicopter but will be required in a single engine helicopter.
+c) Performance Class 1 helicopters means multi-engine helicopters based on a critical engine failure concept which assures performance capability for continued safe flight in the event of an engine failure.
+d) Performance Class 1 operations are those with performance such that, in the event of failure of the critical power unit, the helicopter is able to land within the rejected take-off distance available or safely continue the flight to an appropriate landing
+D
+48. What does the abbreviation "VNE" mean?
+a) Minimum operating speed
+b) Never exceed speed
+c) Maximum landing gear operating speed
+d) Normal endurance speed
+B
+49. From a landing site at 8000 feet pressure altitude, how would you expect the rate of climb to be affected after take-off, as compared to sea level?
+a) It will NOT be affected because the lower temperature cancels out the effects of lower pressure.
+b) It will be higher because the lower pressure at altitude makes the air denser.
+c) It will be higher because the lower temperature at altitude makes the air denser.
+d) It will be reduced because the lower pressure makes the air less dense.
+D
+50. For multi-engined helicopter operations, Category A is defined so that, if the critical engine fails it...
+a) must land within the designated rejected take-off area irrespective of where the failure occurs.
+b) has adequate performance capability for continued safe flight or a rejected take-off.
+c) is able, after Take-off Decision Point, to reject the take-off and conduct aforced landing.
+d) is able, prior to Take-off Decision Point, to continue the take-off and climb out toattain single-engine forward flight.
+B
+51. How do the best angle of climb speed and best rate of climb speed vary with increasing altitude?
+a) Both increase
+b) Best angle of climb speed decreases while best rate of climb speed increases
+c) Best angle of climb speed increases while best rate of climb speed decreases
+d) Both decrease
+D
+52. The helicopter's service ceiling is defined as the altitude at which the rate of climb reduces to:
+a) 50 ft/min
+b) A low specified rate of climb.
+c) O ft/min
+d) 100 ft/min
+D
+53. The "Density altitude" is:
+a) The height in the standard atmosphere at which the prevailing density occurs.
+b) The height obtained by setting the subscale of an altimeter to QNE.
+c) The altitude obtained by setting the subscale of an altimeter to QNH.
+d) The altitude in the standard atmosphere at which the prevailing density occurs.
+D
+54. When does the cruise start?
+a) 200 ft
+b) 35 ft
+c) 1000 ft
+d) 500ft
+C
+55. What is the abbreviation for the term "Never exceed speed"?
+a) VLE
+b) VNO
+c) VNE
+d) VNX
+C
+56. The effect of wind on Rate of Climb (ROC) will be:
+a) The wind effect on ROC is unpredictable
+b) Tailwind will increase the ROC
+c) Nil
+d) Headwind will increase the ROC
+C
+57. The height/velocity graph...
+a) shows combinations of speed and height from which it will always be possible to perform a safe forced landing in any type of terrain and in any flight conditions.
+b) represents combinations of heights and speeds from which it would be impossible to make an engine-off landing.
+c) shows initial combinations of speed and height from which the average pilot would find it difficult to transition to autorotation safely from powered flight.
+C
+d) represents combinations of low heights and speeds in which it is safe to operate.
+58. The helicopter operating in Performance Class 1, 2 or 3 must comply with OPS CAT POL (H) requirements. Who has the initial responsibility to ensure compliance?
+a) Operator
+b) Commander
+c) Manufacturer
+d) EASA
+B
+59. For a Performance Class 2 helicopter who is responsible for ensuring that total take off mass
+of the helicopter permits at least a mimimum rate of climb of 150 ft/min at the defined
+flight altitude given the following data;
+- Height 1000 ft (300 m)
+- Critical engine inoperative - Appropriate power setting
+a) The Manufacturer.
+b) The Commander.
+c) The Flight Despatcher.
+d) The Operator
+B
+60. How will VMAX vary with altitude?
+a) Increases with an increase in altitude.
+b) Stays constant.
+c) Decreases with a decrease in altitude.
+d) Decreases with an increase in altitude.
+D
+61. What are the requirements when establishing the performance of a Category A helicopter in CS29.
+a) Maximum continuous power, landing gear extended and at height consistent with the procedure used in establishing the take-off, climb-out and rejected take-off paths.
+b) Take-off power, landing gear retracted and at height consistent with the procedure used in establishing the take-off, climb-out and rejected take-off paths.
+c) Take-off power, landing gear extended, IGE, with the normal procedures used in establishing the take-off, climb-out and rejected take-off paths.
+d) Take-off power, landing gear extended and at height consistent with the procedure used in establishing the take-off, climb-out and rejected take-off paths.
+D
+62. With reference to figure 3.5 your performance data gave a height for point A of 90ft. Which of the following combinations of speed and height will avoid the airspeed-height envelope.
+a) All combinations of speed and height will avoid the envelope
+b) 20 kts and 50 ft
+c) 10 kts and 10 ft
+d) 10 kts and 50 ft
+A
+63. Which of the following situations would require the most hover-taxi fuel for a twin-engined turbine helicopter?
+a) High density altitude and low forward-taxiing airspeed.
+b) Low density altitude and low forward-taxiing airspeed.
+c) Low density altitude and high forward-taxiing airspeed.
+d) High density altitude and high forward-taxiing airspeed.
+D
+64. Which statement correctly defines the Helicopter clearway.
+a) A defined area over which the final phase of the approach manoeuvre to hover or landing is completed and from which the take-off manoeuvre is commenced.
+b) A load bearing area on which a helicopter may touch down or lift off. Of sufficient size to contain a circle 1.5 times the length or width of the undercarriage, whichever is greater, of the largest helicopter the area is intended to serve.
+c) When provided it shall be located beyond the upwind end of the FATO. The minimum width must be the same as the safety area with a maximum upward slope of 3% and clear of all obstacles
+d) A defined area on a heliport surrounding the FATO which is free of obstacles, other than those required for air navigation purposes (frangible objects), and intended to reduce the risk of damage to helicopters accidentally diverging from the FATO.
+C
+65. The distance required for an aborted take off is the horizontal distance required between the start of the take off and the point where the helicopter stops following the failure of:
+a) The critical engine and the interruption of the take off one second after the failure
+b) An engine and the interruption of the take off at the moment the failure occured
+c) The critical engine and the interruption of the take off at the moment the failure occured
+d) The critical engine and the interruption of the take off at the take off decision point
+D
+66. Performance Class 3 may be defined, for a single engined helicopter such that, if an engine becomes inoperative:
+a) The aircraft is in Category A and B.
+b) A forced landing may result.
+c) A forced landing is at the commander's discretion.
+d) A forced landing will result.
+D
+67. A helicopter operating in Performance Class 2 approaches an elevated helideck to land. The Committal Point (CP) is a point in the approach, (1)____________ the Defined Point Before Landing (DPBL), at which the pilot decides that, if one engine fails, it is safest to (2).
+a) (1) after; (2) execute a balked landing
+b) (1) before; (2) execute a balked landing
+c) (1) after; (2) continue to the helideck
+d) (1) before; (2) continue to the helideck
+C
+68. The speed for helicopter endurance is?
+a) VMIN
+b) VMP
+c) VMR
+d) VMD
+B
+69. Which of the following statements is correct with regard to limited power operations?
+a) Following an engine failure on a Category A helicopter at low AUM forward speed is always required to land at VMin
+b) Following an engine failure on a Category A helicopter at high AUM forward speed may be required to land at VMin
+c) Following an engine failure on a Category B helicopter at high AUM forward speed is not required to land at VMin
+d) Icing, salt spray and configuration have no effect on helicopter performance.
+B
+70. The maritime zone located North of latitude 50 N is considered hostile:
+a) Only if a safe emergency landing cannot be carried out.
+b) Even if a safe emergency landing can be carried out.
+c) At the pilot's initiative, the notion of "hostile " not being explicitly defined.
+d) Only if the helicopter occupants cannot be adequately protected.
+B
+71. What is a climb gradient?
+a) The climb angle of the helicopter, measured in degrees.
+b) The same as the rate of climb, measured in feet per minute.
+c) A percentage of height gained to the horizontal distance covered.
+d) The vertical distance from take-off to the desired altitude, divided by the rate of climb.
+C
+72. The speed for maximum rate of climb:
+a) Lower than the speed for the best angle of climb.
+b) Will be higher than the speed for best angle of climb.
+c) May be higher or lower than the speed for best angle of climb depending on helicopter type.
+d) Will be the same as the speed for best angle of climb under any circumstances.
+B
+73. What is the operational ceiling of a helicopter?
+a) The altitude at which the helicopter can still achieve a certain climb rate (often 100 ft/min).
+b) The altitude above which on-board oxygen will be required for all crew members.
+c) The altitude at which the helicopter has a rate of climb of zero.
+d) The maximum altitude that the helicopter can reach in a OEI situation.
+A
+74. The cruise speed is?
+a) On the back of the power required curve where it meets the power available line.
+b) The same as the cruise climb speed.
+c) At the bottom of the power required curve.
+d) On the front of the power required curve.
+D
+75. Which of the following groups of conditions are the most favourable for take-off?
+a) Low airfield elevation, low humidity, low temperature, high atmospheric pressure, a light wind
+b) Low airfield elevation, low humidity, low temperature, high atmospheric pressure, a headwind
+c) High airfield elevation, low humidity, high temperature, low atmospheric pressure.
+d) High airfield elevation, low temperature, high atmospheric pressure.
+B
+76. The maximum indicated air speed of a helicopter in level flight is reached:
+a) At the service ceiling
+b) At the practical ceiling
+c) At the optimum cruise altitude
+d) At the lowest possible altitude
+D
+77. With regard to the diagram at the annex. The tangent to the power required curve point A is the best angle of climb speed because:
+a) It is the best ratio between power available and minimum forward speed with limited power
+b) It is the maximum ratio between power required and power available.
+c) It is where the ratio between VMD and power available is maximum
+d) It is the minimum ratio between power required and power available
+A
+
+78. The absolute ceiling of a helicopter is the altitude at which the helicopter is:
+a) Just able to climb
+b) Has a rate of climb of 50 fpm
+c) Is no longer able to climb
+d) Has a rate of climb of 100 fpm
+C
+79. What does the abbreviation "OEI" mean?
+a) Override electrical inverter
+b) Outboard electrical input
+c) Out of engine limits
+d) One engine inoperative
+D
+80. A head wind will:
+a) Increase the angle of climb.
+b) Shorten the time to a given altitude.
+c) Increase the rate of climb.
+d) Increase the climb flight path angle.
+D
+81. What is the operational Ceiling of an aircraft?
+a) Definition of service ceiling.
+b) Definition of absolute ceiling
+c) Service ceiling with OEI
+d) The point at which an aircraft can no longer climb
+A
+82. A helicopter which has no guaranteed ability to continue flight in the event of an engine failure is certified in:
+a) Category A.
+b) Category C.
+c) Category D.
+d) Category B.
+B
+83. An obstacle 425 ft high is situated 682 m from the end of TODAH. Calculate the gradient and ROC required to clear the obstacle by the statutory minima from the end of TODAH given: PA 5000 ft OAT 10 °C Climb speed, 50 KIAS
+a) 19% and 1026 fpm.
+b) 20.56% and 1028 fpm
+c) 19% and 950 fpm
+d) 17.4% and 939 fpm
+A
+84. What determines manufacturers' max cruising speed?
+a) The amount of continuous power engines can provide
+b) Retreating blade
+c) Structural integrity of fuselage and subsystems
+d) Max cruise speed is the same as VNE
+A
+85. Which of the following combinations gives the greatest Power Available?
+a) High pressure altitude, high humidity, low temperature
+b) High pressure, high humidity, high temperature
+c) Low pressure, low temperature, low humidity
+d) Low pressure altitude, low temperature, low humidity
+D
+86. In the case of helicopters, the Landing Distance Required starts at a point how many feet above the landing surface?
+a) 35 ft
+b) 50 ft
+c) 15 ft
+d) 100 ft
+B
+87. Which of the following statements is correct for a helicopter certificated under CS29?
+a) CS 29 applies to large rotorcraft with Category A or Category B requirements: Normally 9072kg/20,000 lbs or more.
+b) CS 29 applies to large rotorcraft with Category A or Category B requirements: Normally 4545kg/10,000 lbs or more.
+c) CS 27 for small rotorcraft with a maximum mass of 3175 kg (7000 lbs) or less and nine or less passenger seats.
+d) CS 29 applies to large rotorcraft with Category A or Category B requirements: Normally 9072kg/20,000 lbs or less.
+A
+88. The effect that a tailwind has on the value of the maximum endurance speed is
+a) That the IAS must be decreased.
+b) That a tailwind only affects the holding speed.
+c) None.
+d) That the IAS must be increased.
+C
+89. The Service Ceiling OEI is the...
+a) maximum altitude at which a helicopter can fly with one engine inoperative, as restricted in the Technical Log by the Maintenance Department after unscheduled servicing.
+b) maximum altitude at which a helicopter can fly for Commercial Air Transport purposes with one engine inoperative.
+c) altitude at which NO rate of climb can be achieved with one engine inoperative.
+d) altitude at which a certain minimum rate of climb can be achieved with one engine inoperative, typically 100 feet per minute.
+D
+90. For Performance Class 3 which statement is correct?
+a) An engine failure on a multi-engine helicopter in Performance Class 3 will not result in a forced landing
+b) Performance Class 3 helicopters can operate in IMC
+c) An engine failure on a multi-engine helicopter in Performance Class 3 is only accounted for if there is no assured safe landing capability
+d) An engine failure on a multi-engine helicopter in Performance Class 3 may result in a forced landing
+D
+91. A helicopter will obtain a maximum flight distance at the speed:
+a) For maximum endurance.
+b) For maximum range.
+c) The speed for minimum power required.
+d) For minimum hourly fuel flow.
+D
+92. Which of these environmental factors will have the greatest effect on performance?
+a) 3°C at 3000 ft amsl in the North American mountains.
+b) 8°C at 3000 ft amsl on the European Plains.
+c) 42°C at sea level in a desert area.
+d) 20°C at 1000 ft amsl in desert mountains.
+C
+93. Which of the following statements is correct.
+a) A CG at the aft limit requires aft cyclic which in turn demands more power and decreases range
+b) A CG at the forward limit requires less forward cyclic, which in turn demands more power and decreases range
+c) A CG at the forward limit requires aft cyclic which in turn demands less power and decreases range
+d) A CG at the forward limit requires forward cyclic which in turn demands more power and increases range
+B
+94. "VTOSS" is the Take-off Safety Speed for:
+a) Single-engine helicopters
+b) Single-engine and multi-engine helicopters
+c) Category A helicopters
+d) Class 2 helicopters
+C
+95. The helicopter's service ceiling is defined as the altitude at which the rate of climb reduces to:
+a) a specified minimum value
+b) 50 ft/min
+c) O ft/min
+d) 100 ft/min
+A
+96. What is the abbreviation for the term "Maximum landing gear extended speed"?
+a) VLE
+b) VA
+c) VNE
+d) VLO
+A
+97. Landing distance required means:
+a) The distance required to accelerate from rest to a specified point on the take-off path.
+b) The distance from a specified point on the approach until the helicopter comes to rest.
+c) The distanced required to accelerate to Vtoss.
+d) The distance required for a running landing.
+B
+98. What effect does increasing humidity have on helicopter performance?
+a) No change.
+b) Performance increases.
+c) Performance decreases.
+d) Performance increases or decreases dependant on helicopter type.
+C
+99. What category must a helicopter with the following specifications be certificated in, according to EASA CS 29? Maximum weight greater than 9072 kg (20000 lb),10 or more passenger seats.
+a) Both Category A and Category B, with appropriate and different operating limitations for each category.
+b) Category A.
+c) Either Category A or Category B.
+d) Category B.
+B
+100. In straight and level flight at constant indicated airspeed, a reduction in pressure altitude:
+a) Increases or reduces the power required depending on the airspeed
+b) Reduces the power required
+c) Does not affect the power required
+d) Increases the power required
+B
+101. If the rotor disc diameter is 10.69m what is the value of R.
+a) 10.69m
+b) 21.38m
+c) 16.035m
+d) 5.345m
+D
+102. Select the correct statement.
+a) Power required to overcome induced drag, parasite drag and profile drag increases iwith increasing TAS.
+b) Power required to overcome induced drag increases with increasing TAS whereas the power required to overcome parasite drag and profile drag decreases.
+c) Power required to overcome induced drag decreases with increasing TAS whereas the power required to overcome parasite drag and profile drag increases.
+d) Power required to overcome induced drag and profile drag decreases with increasing TAS whereas the power required to overcome parasite drag increases.
+C
+103. A hostile sea area is defined as being:
+a) Where Search and Rescue response is too quick.
+b) South of 45°N.
+c) Where there are few shipping lanes.
+d) South of 45°S.
+D
+104. What is the abbreviation for the term "Take-off safety speed"?
+a) VY
+b) VTO
+c) VTOSS
+d) VX
+C
+105. What does the term AEO mean?
+a) All Engines Operative
+b) Aerodrome Engineering Office
+c) Aircraft Environmental Oversight
+d) All Existing Operations
+A
+106. Performance such that, in the event of failure of a critical power unit, enables a helicopter to land within the rejected take-off distance available is:
+a) Performance Class 3.
+b) Performance Class 4.
+c) Performance Class 2.
+d) Performance Class 1.
+D
+107. Which of the following can be defined as a hostile environment?
+a) A helicopter landing site within a congested area.
+b) There is an unacceptable risk of endangering persons or property on the ground
+c) Over water where SAR exceeds 2 hours.
+d) A congested area north of 45N or south of 455.
+B
+108. At cruise speed how will your VMAX change with increasing altitude.
+a) VMAX will stay constant.
+b) VMAX will decrease with increasing altitude.
+c) VMAX will decrease with decreasing altitude.
+d) VMAX will increase with increasing altitude.
+B
+109. The take-off decision point, TDP, for Performance Class 1 is defined as:
+a) The take-off decision point, TDP, is the first point from which a continued take-off capability is assured within the RTODAH and is the last point in the take-off path from which a rejected take-off is assured within the TODAH.
+b) The take-off decision point, TDP, is the first point from which a continued take-off capability is assured within the TODAH and is the last point in the take-off path from which a rejected take-off is assured within the RTODAH.
+c) The take-off decision point, TDP, is the last point from which a continued take-off capability is assured within the TODAH and is the first point in the take-off path from which a rejected take-off is assured within the RTODAH.
+d) The take-off decision point, TDP, is the first point from which a rejected take-off capability is assured within the TODAH and is the last point in the take-off path from which a continued take-off is assured within the RTODAH.
+B
+110. The TODRH is the horizontal distance required between the start of the take off and the point where the take off safety speed is reached as well as a height of:
+a) 35 ft above the take off surface and a positive or zero climb gradient in case of failure of the critical engine
+b) 15 ft above the take off surface and a positive climb gradient in case of failure of the critical engine
+c) 35 ft above the take off surface and a positive climb gradient in case of failure of the critical engine
+d) 50 ft above the take off surface and a positive or zero climb gradient in case of failure of the critical engine
+C
+111. Which of the following groups of conditions are the most favourable for take-off?
+a) High airfield elevation, low temperature, high atmospheric pressure.
+b) Low airfield elevation, low humidity, low temperature, high atmospheric pressure.
+c) High airfield elevation, low humidity, high temperature, low atmospheric pressure.
+d) Low airfield elevation, high temperature, low air density.
+B
+112. The abbreviation VNE means:
+a) Normal speed with landing gear extended
+b) Never exceed speed
+c) Normal extension speed
+d) Maximum speed in level flight
+B
+113. In what way do (1) induced drag and (2) parasite drag alter with increasing speed?
+a) (1) increases and (2) increases.
+b) (1) decreases and (2) decreases.
+c) (1) increases and (2) decreases.
+d) (1) decreases and (2) increases.
+D
+114. The never exceed speed (VNE) of a helicopter, as specified in the flight manual:
+a) May not be exceeded under any circumstances.
+b) Is not attainable during a dive without engine power.
+c) Only applies at maximum certificated mass.
+d) Is attainable with full engine power in level flight.
+A
+115. Which of the following is not an advantage for Performance Class 2 operations
+a) Ability to operate when the TODR ends outside the heliport boundary
+b) Ability to operate when a safe-forced landing is not assured in the take-off phase
+c) Ability to operate when the ground is waterlogged and unsuitable for a rejected take-off
+d) Ability to operate south of latitude 45°S
+D
+116. The speed for maximum endurance:
+a) Can either be higher or lower than the speed for maximum specific range
+b) Is always lower than the speed for maximum specific range
+c) Is in any case identical with the speed for maximum specific range
+d) Is always higher than the speed for maximum specific range
+B
+117. What is the effect of tail wind on the time to climb to a given altitude?
+a) The time to climb decreases
+b) The time to climb does not change
+c) The effect on the time to climb will depend on the helicopter type
+d) The time to climb increases
+B
+118. Minimum weather limits are applied to Helicopter Class 3 operations. These are:
+a) Cloud ceiling is not less than 600 ft above local surface.
+b) Visibility is less than 1500 m.
+c) Visibility is 800 m.
+d) Cloud ceiling is 600 ft above local surface.
+A
+119. AEO means:
+a) All engines operating.
+b) Aft electrical bay overcharged.
+c) All exits open.
+d) All engines inoperative.
+A
+II.	PERFORM CLASS 3
+120. Find the HIGE limiting mass given: 3200 rpm, PA 6200 ft, Temperature 20°C.
+a) 860 kg
+b) 1850 lbs
+c) 780 kgs
+d) 850 lbs
+
+D
+121. What is specific fuel consumption?
+a) The fuel flow over time.
+b) The mass of fuel used to produce thrust.
+c) The mass of fuel used to produce thrust per unit of time.
+d) The volume of fuel used to produce thrust per unit of time.
+C
+122. In PC3 when operating without an assured safe landing capability in the take-off, the take- off phase boundary is defined as:
+a) 50ft
+b) Achieving VY or no later than 200ft above the take-off surface
+c) 200ft
+d) 35 ft
+B
+123. When is it permissible to operate a PC3 helicopter in a hostile environment?
+a) During take-off and landing by day and by night with the appropriate risk assessment.
+b) During take-off and landing by day outside a congested area with approval from the competent Authority.
+c) During take-off and landing by day and by night outside a congested area with approval of the competent Authority.
+d) During take-off and landing for all helicopters operating in PC3 in a congested area, with approval from the competent Authority.
+B
+124. Indicate the correct statement regarding the take-off and landing requirements of a helicopter operation in PC3 at an aerodrome or operating site located outside a congested hostile environment.
+a) The maximum take-off and landing mass shall be the higher of the MCTOM/MCLM or the maximum mass for hover IGE.
+b) As long as an operational approval from the Competent Authority is held, the take- off and landing phase can be conducted out of sight of the surface.
+c) A take-off or landing is allowed at night, and by day so long as visibility is greater than 800 m.
+d) After approval by the Competent Authority, a take-off or landing WITHOUT an assured safe forced landing capability may be allowed.
+D
+125. With reference to CAP 758 figure 2.21 find the maximum cruise and VNE at the MAUM given: PA 2000 ft OAT +28°C
+a) Max cruise 95 mph: VNE 111 mph
+b) Max cruise: 95 kts VNE 111kts
+c) Max cruise 82 KIAS: VNE 97 KIAS
+d) Max cruise 95 kts: VNE 97 kts
+A
+126. If, for a Performance Class 3 helicopter, a Hover In Ground Effect (HIGE) is unlikely to be established due to excessive mass, what maximum take-off mass is allowed?
+a) The mass that will allow for a vertical climb without hovering.
+b) The mass required for a Hover Out of Ground Effect (HOGE).
+c) The Maximum Take-Off Mass.
+d) The Regulated Maximum Take-Off Mass.
+B
+127. Which statement regarding the en-route phase for Performance Class 3 is correct?
+a) Must be able to fly at 1000 ft with a minimum ROC of 150 fpm
+b) Must be able to fly at 1000 ft within sight of the surface with a minimum ROC of 50 fpm
+c) Must be able to fly at 1000 ft with a minimum ROC of 50 fpm and clear all obstacles by 50 ft.
+d) With all engines operating at MCP the helicopter must be able to fly above the minimum flight altitude and in the event of an engine failure be able to perform a safe forced landing
+D
+128. Using annex or CAP 758 SEPH Fig 2.22. Determine the fuel consumption after 150 statute miles at range speed. Given transit height SL. TOM 1800 lbs. The main and auxiliary tanks are full.
+(Assume 1 USG = 6lbs)
+a) 120 lbs
+b) 18.5 USG
+c) 116 lbs
+d) 7.75 USG
+
+C
+129. At annex or CAP 758 SEPH Fig 2.25. Determine the range speed, distance and time, at 4000ft and a mass of 1700 lbs
+a) 75 KTAS, 224 nm, 2 hrs 45 mins
+b) 70 KIAS, 224 sm, 2 hrs 45 mins
+c) 70 KIAS, 192 sm, 3hrs 12 mins
+d) 70 KIAS, 224 nm, 2 hrs 45 mins
+
+B
+130. Performance Class 3 operations are permitted:
+a) To or from heliports in a non hostile environment where a safe forced landing is assured except in the take-off and landing phase with prior approval from the Authority.
+b) To or from heliports in a non hostile environment where a safe forced landing is always assured.
+c) To or from helidecks in a non hostile environment where a safe forced landing is always assured.
+d) To or from helidecks in a congested hostile environment where a safe forced landing is assured except in the take-off and landing phase
+A
+131. Calculate the maximum possible landing mass for the single-engine piston helicopter to be able to stop in an IGE hover using the following landing-site data: Pressure altitude: 6500 ft Temperature: +21° C
+a) 848 kg
+b) 832 kg
+c) 868 kg
+d) 930 kg
+
+A
+132. A helicopter is at an airfield with a PA 3500ft OAT +27°C Calculate the density altitude given 120ft per degree deviation from ISA
+a) 1220 ft
+b) 5870 ft
+c) 1420 ft
+d) 5780 ft
+D
+133. An aircraft on approach has a headwind of 4Kts, what headwind can you use?
+a) 8 Kts
+b) 4 Kts
+c) Nil
+d) 2 Kts
+C
+134. With regard to a Performance Class 3 landing which of the following statements is correct?
+a) The landing mass of the helicopter must not exceed the maximum landing mass specified for a HIGE with all power units operating at maximum continuous power.
+b) The landing mass of the helicopter must not exceed the maximum landing mass specified for a HIGE with all power units operating at take-off power.
+c) The landing mass of the helicopter must not exceed the maximum landing mass specified for a HOGE with all power units operating at maximum continuous power.
+d) The landing mass of the helicopter must not exceed the maximum landing mass specified for a HOGE with all power units operating at 2 minute power.
+B
+135. What is the effect of tail wind on the time to climb to a given altitude?
+a) The effect on the time to climb will depend on the helicopter type
+b) The time to climb decreases
+c) The time to climb does not change
+d) The time to climb increases
+C
+136. In PC3 when operating without an assured safe landing capability in the landing phase the boundary is defined as:
+a) 200 ft QNH
+b) 35 ft
+c) Below 200ft above the landing surface
+d) 50 ft
+C
+137. In the cruise, a helicopter with Performance Class 3, must be able to fly at:
+a) The minimum flight altitude.
+b) The normal range speed.
+c) VNE.
+d) Minimum power speed.
+A
+138. A helicopter is being operated in Performance Class 3. The MCTOM of the helicopter is 3400 Ib,or 3550 lb with an external load attached. Given the meteorological conditions, in order to Hover In Ground Effect (HIGE), the maximum mass is 3200 lb and to Hover Out of Ground Effect (HOGE), 3000 lb. HIGE is likely to be established, and NO external load is being carried. Which mass shall be used for performance calculations?
+a) 3400 lb
+b) 3000 lb
+c) 3200 lb
+d) 3550 lb
+C
+139. The reported headwind is 15 kts and the tailwind is 12 kts. What may be used for performance planning?
+a) HW 10 kts, TW 18 kts.
+b) HW 7.5 kts, TW 18 kts
+c) HW 6 kts, TW 15 kts
+d) HW 7.5 kts, TW 6 kts
+B
+140. Which combination of flight conditions will permit Class 3 operations?
+a) Visual with the surface, daylight, ceiling 500 ft, visibility 1500 m
+b) Visual with the surface, daylight, ceiling 600 ft, visibility 800 m
+c) Visual with the surface, daylight, ceiling 800 ft, visibility 500 m
+d) Visual with the surface at night, ceiling 600 ft, visibility 800 m
+B
+141. Please refer to the annex. You are going to a landing strip that is 6000 feet above mean sea level. The temperature at sea level is +25° C. Assuming the surface supports it, at what maximum weight would you expect to be able to Hover In Ground Effect (HIGE)?
+a) 3200 lb
+b) 2670 lb
+c) 3100 lb
+d) 2890 lb
+
+A
+142. What is the limiting mass to maintain the recommended take-off profile and avoid the H-V envelope at a density altitude of 2200 ft?
+a) 19100 lbs
+b) 1910 lbs
+c) 1810 lbs
+d) 1900 lbs
+
+C
+143. Regarding operations to helidecks select the correct statement.:
+a) Operations to helidecks can be made by PC2 helicopters by day but not at night.
+b) Operations to helidecks can be made by PC3 helicopters by day but not at night.
+c) Operations to helidecks can be made by PC2 helicopters neither by day or night.
+d) Operations to helidecks can be made by PC3 helicopters neither by day or night.
+B
+144. Which statement concerning the effect of tailwind on the take-off distance for a turbine- powered helicopter is correct? Compared to a take-off in still-wind conditions, when there is a tailwind the take-off distance will...
+a) be the same, so long as the tailwind component remains within the limits defined in the Aircraft Flight Manual.
+b) increase since a higher ground speed is needed to achieve the same climb performance.
+c) decrease since better climb performance is achieved due to a higher ground speed.
+d) be the same because the reduced climb performance is compensated for by the tailwind improving the engine performance.
+B
+145. The mass of a helicopter with Performance Class 3 must be such that the following is always possible:
+a) A hover.
+b) A hover OGE.
+c) A hover IGE.
+d) A vertical climb > 200 ft per min.
+C
+146. TAS is 120kt, headwind is 15 kt, a fuel consumption is 4 gallons/min. Full fuel of 600 gallons is loaded. What is range and endurance without reserves?
+a) 300 nm and 2 hours 30 minutes
+b) 265 nm and 2 hours 30 minutes
+c) 265 nm and 2 hours
+d) 337.5 nm and 2 hours
+B
+147. When may a Performance Class 3 helicopter fly over congested hostile terrain?
+a) Is permitted above all water surface areas provided all passengers have a lifejacket at despatch.
+b) Is permitted above all water surface areas provided all passengers wear a lifejacket.
+c) Is authorised if the terrain you overfly allows a safe forced landing to be performed.
+d) Flying over a congested hostile area with a PC3 helicopter is prohibited.
+D
+148. When can operating a helicopter in PC3 in a hostile environment be permitted?
+a) During take-off and landing by day and by night outside a congested area with approval of the competent Authority
+b) During take-off and landing by day and by night with the appropriate risk assessment.
+c) During take-off and landing by day in a congested area with approval from the competent Authority.
+d) During take-off and landing and operating by day, outside a congested area (for turbine-powered helicopters with a MOPSC of six or less) with approval from the competent Authority.
+D
+149. What is the formula for Specific Air Range (SAR)?
+a) SAR = True Airspeed ÷ fuel flow
+b) SAR = Air distance fuel flow
+c) SAR Groundspeed fuel flow
+d) SAR = fuel flow ÷ thrust
+A
+150. For a Category B helicopter the take-off distance required is the distance to take-off and climb over an obstacle height of:
+a) 200 ft
+b) 50 ft
+c) 35 ft + 0.01DR
+d) 35 ft
+B
+151. Please refer to the annex.
+  Given the following information, what is (1) the maximum temperature and (2) the maximum wind speed to allow a hover in ground effect then transition on track 130° (M)?
+  Crosswind limit: 17 kt Wind direction: 080° (M)
+  Pressure altitude: 7600 ft
+  NO non-standard equipmentGross mass: 860 kg
+a) (1) +6° C; (2) 17 kt
+b) (1) +1° C; (2) 22 kt
+c) (1) +6° C; (2) 22 kt
+d) (1) +1° C; (2) 17 kt
+
+B
+152. For take off with a tailwind component an operator must consider:
+a) No more than 150% of the reported tailwind component
+b) At least 150% of the reported tailwind component.
+c) At least 80% of the reported tailwind component.
+d) At least 150% of the reported tailwind component unless precise wind measuring equipment enables accurate measurement of the wind velocity in which case 50% of the tailwind component may be used.
+B
+153. What is specific range?
+a) The ground distance flown per unit of fuel.
+b) The still air distance travelled per unit of fuel.
+c) The still air distance travelled per unit of thrust.
+d) The ground distance flown per unit of thrust.
+B
+154. Which statement is true regarding Performance Class 3 operations to a helideck.
+a) Performance Class 3 operations to a helideck are permitted with a MOPSC of 6 or less.
+b) Performance Class 3 operations are not permitted to a helideck.
+c) Performance Class 3 day operations to a helideck are permitted with prior approval from the Authority with turbine powered helicopters with a MOPSC of 6 or less.
+d) Performance Class 3 operations are permitted to a helideck by day and night.
+C
+155. When is the take-off phase considered to end and the climb phase start during a PC3 departure?
+a) at DPATO
+b) On passing the TODR
+c) As the aircraft reaches VY
+d) on passing the TODA
+C
+156. With regard to Performance Class 3 en-route requirements which of the following statements is correct?
+a) The helicopter is able, with one power unit inoperative and the remaining power units operating within the maximum continuous power conditions specified, to continue along its route or to a planned diversion without flying at any point below the appropriate minimum flight altitude.
+b) The helicopter is able, with all power units operating within the maximum continuous power conditions specified, to continue along its route or to a planned diversion without flying at any point below the appropriate minimum flight altitude.
+c) The helicopter is able, with all power units operating within the maximum cruise power conditions specified, to continue along its route or to a planned diversion without flying at any point below the appropriate minimum flight altitude.
+d) The helicopter is able, with all power units operating within the maximum take-off power conditions specified, to continue along its route or to a planned diversion without flying at any point below the appropriate minimum flight altitude.
+B
+157. A multi-engine helicopter in PC3 when planning a landing is unable to HIGE at the planned landing mass. The MLM must be restricted to:
+a) Mass allowing a HOGE with all engines at MTOP
+b) The helicopter is not permitted to operate
+c) Mass allowing a HOGE with OEI at MTOP
+d) Mass allowing a HOGE with all engines at MCP
+A
+158. A helicopter in Performance Class 3 must be certified in:
+a) category B.
+b) category A.
+c) category A or B.
+d) no category.
+C
+159. Performance such that, in the event of failure of a critical power unit, enables a helicopter to land within the rejected take-off distance available or safely continue Chief flight to an appropriate landing. Is:
+a) Performance Class 1.
+b) Performance Class 2.
+c) Performance Class 3.
+d) Performance Class 4.
+A
+160. Define the term "Performance Class 3".
+a) Performance Class 3 helicopters means multi-engine helicopters based on a critical engine failure concept which assures performance capability for continued safe flight in the event of an engine failure.
+b) Performance Class 3 operations are those with performance such that, in the event of failure of the critical power unit, the helicopter is able to land within the rejected take-off distance available or safely continue the flight to an appropriate landing.
+c) Performance Class 3 operations are those operations such that, in the event of a power unit failure at any time during the flight, a forced landing may be required in a multi-engine helicopter but will be required in a single engine helicopter.
+d) Performance Class 3 helicopters means single-engine or multi-engine helicopters which do not fully meet all class 2 standards. Class 3 helicopters have no guaranteed stay-up ability in the event of engine failure and unscheduled landing is assumed.
+C
+161. Performance Class 3 may be defined, for a single engined helicopter such that, if an engine becomes inoperative:
+a) The aircraft is in Category A and B
+b) A forced landing may result
+c) A forced landing will result
+d) A forced landing is at the commander’s discretion
+C
+162. Performance Class 3 helicopters are certified in:
+a) they need not be certified in Category A or B
+b) category B
+c) category A
+d)  category A or B
+D
+163. Helicopters conducting operations to/from a final approach and take-off area (FATO) at a hospital that is located in a congested hostile environment and that is used as a HEMS operating base shall be operated in accordance with:
+a) performance class 1
+b) performance class 2
+c) performance class 3
+d) any performance class
+A
+164. What is the correct statement concerning the performance classes?
+a) Class 1 is only helicopters with MPASC > 19 PAX.
+b) Class 2 is only helicopters with MPASC < 19 PAX but > 9 PAX.
+c) Class 3 is only helicopters with MPASC < 9 PAX.
+d) Class 1 is only helicopters with MPASC > 19 PAX or helicopters operating to/from heliports located in a congested, hostile environment.
+D
+165. What consideration must normally be given to operations over hostile environment in a performance class 3 helicopter?
+a) Operations over hostile areas are prohibited.
+b) A life jacket must be worn by each person when operating over water.
+c) A life jacket must be readily accessible for each person when operating over water.
+d) A life jacket must be worn by each person, when operating over water at a distance from land corresponding to more than 10 minutes flying time at normal cruising speed.
+B
+166. Performance Class 3 operations to or from helidecks are:
+a) allowed, if the operator has been granted an approval by the competent authority.
+b) made in daylight only.
+c) made as a matter of routine.
+d) not carried out by some operators.
+A
+167. Minimum weather requirements are applied to Helicopter Class 3 operations. These are:
+a) visibility is 800 ft or more
+b) cloud ceiling is 600 ft or more above local surface
+c) cloud ceiling is less than 600 ft above local surface
+d) visibility is less than 600 m.
+B
+168. An increase in density altitude:
+a) does not influence performance and especially the take-off weight
+b) increases performance and especially the take-off weight
+c) generally reduces performance and decreases especially the take-off weight
+d) increases or does not influence take-off weight depending on the aircraft type.
+C
+169. The effect of wind on Rate of Climb (ROC) will be:
+a) nil.
+b) headwind will increase the ROC.
+c) tailwind will increase the ROC.
+d) the wind effect on ROC is unpredictable.
+A
+170. At night, operations in Performance Class 3 helicopters are:
+a) never carried out.
+b) only allowed In good moonlight
+c) only allowed with a good power margin
+d) routinely carried out.
+ A
+171. Which of the following groups of conditions are the most favourable for take-off?
+a) High airfield elevation, low humidity, high temperature, low atmospheric pressure
+b) High airfield elevation, low temperature, high atmospheric pressure.
+c) Low airfield elevation, high temperature, low air density.
+d) Low airfield elevation, low humidity, low temperature, high atmospheric pressure.
+D
+172. The effect of wind on angle of climb path will be:
+a)  nil.
+b) head and tailwind will decrease the angle of climb path
+c) the wind effect on angle of climb path is unpredictable
+d) headwind will increase the angle of climb path.
+D
+173. A headwind will:
+a) increase the angle of climb
+b) increase the climb flight-path angle
+c) increase the rate of climb
+d) shorten the time to a given altitude.
+B
+174. What is the effect of tailwind on the time to climb to a given altitude?
+a) The time to climb does not change.
+b) The time to climb increases.
+c) The time to climb decreases.
+d) The effect on the time to climb will depend on the helicopter type.
+A
+175. Flying in a straight line at constant airspeed, a headwind:
+a) increases the climb gradient
+b) decreases the climb gradient
+c) increases the distance required to descent 100 m
+d) has no effect on the climb gradient.
+A
+176. Operation in Performance Class 3 requires specific WX min. Under what conditions are operations prohibited?
+a) Ceiling is better than 600 ft MSL. Visibility more than 700 m.
+b) Ceiling is less than 600 ft above the local surface. Visibility is less than 800 m.
+c) Ceiling is not required. Visibility better than 800 m.
+d) Ceiling is better than 600 ft above the local surface. Visibility is more than 800 m.
+B
+177. What is the correct statement concerning Performance Class 3:
+a) OPS are not conducted from/to helidecks during daytime.
+b) OPS are only conducted during night time to/from heliports.
+c) OPS are not conducted at night.
+d) OPS are only conducted at daytime to/from helidecks and elevated heliports.
+C
+178. What are requirements in Performance Class 3?
+a) Ceiling is 600 ft or greater above local surface
+b) Visibility is 800 m or greater
+c) Flight has to be conducted in sight of surface
+d) All of the above.
+ D
+179. The mass of a helicopter with Performance Class 3 must be such that the following is always possible:
+a) a vertical climb > 200 ft per min
+b)  a hover.
+c)  a hover IGE
+d)  a hover OGE
+C
+III.	PERFORM CLASS 2
+180. In Performance Class 2 when landing on a helideck in a non hostile environment with no exposure time and an engine fails between the DPBL and the committal point the pilot should
+a) Execute a baulked landing at a speed of VTOSS
+b) Continue to land normally
+c) Carry out a safe forced landing on the surface
+d) Execute a baulked landing at a speed of VMIN
+ C
+181. In class 2 performance, with one engine failed and the others operating, a helicopter's weight at the estimated landing time must allow it to climb at least at:
+a) 150 ft/min at 1000 ft above the destination heliport
+b) 150 ft/min at 200 ft above the destination heliport
+c) 150 ft/min at 200 ft above the destination and the alternate heliports
+d) 150 ft/min at 1000 ft above the destination and the alternate heliports
+ D
+182. The following conditions must be present after the DPBL when operating a helicopter in PC2?
+a) Surface in sight.
+b) Drop down does not need to be taken into account during operations to an offshore helideck.
+c) 600m visibility, 800ft ceiling.
+d) A safe forced landing does not have to be taken into account.
+ A
+183. Exposure time can be defined as:
+a) The time between DPATO and DPB
+b) Operations where a safe forced landing or safe continuation of the flight is not guaranteed with the critical engine inoperative
+c) The time between TDP and the DPATO
+d) Operations in a hostile sea area
+ B
+184. For take off with a tail wind component in class 2 performance an operator must take account of at least:
+a) 80% of the reported tail wind component
+b) 50% of the reported tail wind component
+c) 120% of the reported tail wind component
+d) 150% of the reported tail wind component
+ D
+185. In PC2 at what stage in the approach must it be capable of carrying out a baulked landing.
+a) At 500 ft
+b) At 1000 ft
+c) From the commencement of the approach.
+d) After the DPATO.
+ C
+186. Unless otherwise approved, a Performance Class 2 take-off must be conducted such that a safe forced landing can be executed until...
+a) within 1 second of the end of the exposure time.
+b) the end of the exposure time, which must be at least 12 seconds.
+c) just after rotation.
+d) the point where safe continuation of the flight is possible.
+ D
+187. When calculating the performance of a Class 2 helicopter with one engine inoperative on the approach to land, the following must be considered:
+a) The ETA.
+b) The height of obstructions on the go round.
+c) The surface of the landing site.
+d) The pressure altitude.
+ D
+188. For PC2 from what stage in the approach must it be possible to carry out a baulked landing?
+a) LDP. Landing Decision Point.
+b) 1000 ft
+c) DPATO. Defined Point After Take-off.
+d) From the commencement of the approach.
+ D
+189. A helicopter operating in Performance Class 2 is taking off. As a minimum, the take-off flight path requirements for Performance Class 1 must be met with the critical engine inoperative from the DPATO or, as an alternative, NO later than...
+a) 1000 ft above the take-off surface.
+b) 150 ft above the take-off surface.
+c) 200 ft above the take-off surface.
+d) 500 ft above the take-off surface.
+ C
+190. What is the maximum allowable wind speed for Helideck Operations?
+a) 60 Kts
+b) 40 Kts
+c) 50kts
+d) 30 Kts
+ A
+191. The part of the take-off path during which, in Performance Class 2, an engine failure would result in a forced landing must be flown in:
+a) VMC.
+b) A headwind.
+c) IMC.
+d) Conditions of weather and light in which a safe landing is possible.
+ D
+192. A helicopter operating in Performance Class 2 is about to land at an oil rig when one engine fails between the DPBL and the committal point. What option will ensure the best protection for the persons in the helicopter?
+a) safe forced landing on the sea.
+b) An autorotation on the sea.
+c) A balked landing.
+d) A normal landing on the oil rig helideck.
+ A
+193. When considering the take-off path for a helicopter with Performance Class 2, the aircraft must clear all obstacles vertically by:
+a) 35 ft in VFR
+b) 35 ft + 0.001 DR in IFR
+c) 35 ft in IFR
+d) 10.7 m + 0.01 DR in VFR
+A
+194. For a Performance Class 2 helicopter with one engine inoperative, on take-off, the rate of climb at 1000 ft above the heliport must be at least:
+a) 100 ft/min
+b) 150 ft/min
+c) 300 ft/min
+d) 50 ft/min
+ B
+195. When operating a PC2 helicopter to a helideck with a MOPSC of
+, __(1)_ the take -off  mass must take into account the procedure, deck edge miss and drop down appropriate to the height of the helideck with _____(2)______
+a) (1) more than 19 (2) all power units operating at the appropriate power rating.
+b) (1) MOPSC of 19 or more, (2) the remaining power units operating at the appropriate power rating.
+c) (1) more than 19, (2) the critical power unit inoperative and the remaining power units operating at the appropriate power rating.
+d) (1) 19, (2) the critical power unit inoperative and the remaining power units operating at the appropriate power rating.
+ C
+196. Which statement is correct for Performance Class 2 operations?
+a) Minimum ROC at 1000 ft is 100 fpm
+b) The take-off path extends to 1500 ft
+c) The headwind component must be factored by 150%
+d) Performance Class 2 take-off's must be conducted within sight of the surface
+ D
+197. When landing a Performance Class 2 helicopter with one engine inoperative, the aircraft must be able to carry out a baulked landing, and clear all obstacles, vertically by:
+a) 35 m
+b) 15 m
+c) A safe margin
+d) 35 ft
+ D
+198. For take-off with a tailwind component in Class 2 performance an operator must take account of at least:
+a) 120% of the reported tailwind component.
+b) 50% of the reported tailwind component.
+c) 80% of the reported tailwind component.
+d) 150% of the reported tailwind component.
+D
+199. In performance class 2 when there is a headwind component, an operator, when calculating take-off performance may take into account not:
+a) less than 50% of the reported headwind component
+b) more than 50% of the reported headwind component
+c) more than 80% of the reported headwind component
+d) more than 150% of the reported headwind component.
+B
+200. The part of the take-off path during which, in a helicopter of Performance Class 2, an engine failure would result in a forced landing must be flown in:
+a) VMC
+b) conditions of weather and light in which a safe landing is possible
+c) IMC
+d) a headwind.
+B
+201. For a Performance Class 2 helicopter with one engine inoperative, on take-off, the rate of climb at 1 000 ft above the heliport must be at least:
+a) 100 ft/min.
+b) 150 ft/min.
+c) 50 ft/min.
+d) 300 ft/min.
+B
+202. In Performance Class 2, for a multi-engine helicopter of a total length with the rotors turning of less than 15 metres, it is not necessary to take into account obstacles whose lateral margin relative to the helicopter's flight path with the critical engine failed is greater than a certain distance (assume IFR operation with standard course guidance).
+a) 22.5	metres + 0.15 DR.
+b) 30 metres + 0.15 DR.
+c) 30 metres + 0.30 DR.
+d) 22.5	metres + 0.30 DR.
+B
+203. On the take-off of a Performance Class 2 helicopter from an elevated heliport, the take-off mass must be such that if one engine becomes inoperative at or after DPATO:
+a) there is sufficient power to accelerate to VNO
+b) a safe rejected landing may be made
+c) the helicopter can come to the hover
+d) the helicopter may continue its flight
+D
+204. When considering the take-off path for a helicopter with Performance Class 2, the aircraft must clear all obstacles vertically by:
+a) 10.7m + 0.01 DR in VFR
+b) 35 ft + 0.001 DR in IFR
+c) 35 ft in VFR
+d) 35 ft in IFR
+C
+205. When planning for one engine inoperative in the cruise, a helicopter of Performance Class 2 must be able to maintain a rate of climb of at least:
+a) 50 ft/min at 2000 ft in mountainous areas
+b) 100 ft/min
+c) 100 ft/min at 1 000 ft.
+d) 150 ft/min at 300 m
+A
+206. During en-route flight, in Performance Class 2, with one engine failed and the others operating, at 1 000 ft above any obsta de along his flightpath, the weight of the helicopter must allow it to climb:
+a) at least 50 ft/min
+b) at least 100 ft/mi
+c)  at least 150 ft/min
+d) no definite value.
+A
+207. Who has got the responsibility for the safe conduct of a flight in a performance class 2 helicopter?
+a) The operator.
+b) The owner of the aircraft.
+c) The dispatcher.
+d) The commander.
+D
+208. Performance Class 2 helicopters shall have a maximum approved seating configuration of:
+a) 29 or more
+b) 19 or more
+c) 19 or less but more than 9.
+d)  more than 19
+C
+209. Performance such that, in the event of failure of a critical power unit, enables a helicopter to land within the rejected take-off distance available or safely continue Chief flight to an appropriate landing. Is:
+a) Performance Class 1.
+b) Performance Class 2.
+c) Performance Class 3.
+d) Performance Class 4.
+A
+210. Helicopters operated in Performance Class 2 are certified in:
+a) category A.
+b) category B.
+c) any of Category A, B or C.
+d) category C.
+A
+211. A helicopter with a MAPSC of 7 can be operated in Performance Class 2 if:
+a) In case a CPUI - performance is available to enable the helicopter to safely continue the flight, except when the failure occurs early during take-off or late during landing, i.e. a forced landing may be required
+b) In case of a CPUI - performance is available to enable the helicopter to safely continue the flight without exposure time.
+c) The helicopter with AEO is not able to continue flight and has to make a safe forced landing
+d)  None of the above.
+A
+212. "VTOSS" is the Take-off Safety Speed for:
+a) class 2 helicopters.
+b) category A helicopters.
+c) single-engine and multi-engine helicopters
+d) single-engine helicopters.
+B
+213. For take-off with a tailwind component in Class 2 performance an operator must take account of at least:
+a) 120% of the reported tailwind component.
+b) 50% of the reported tailwind component.
+c) 80% of the reported tailwind component.
+d) 150% of the reported tailwind component.
+D
+214. In performance class 2 when there is a headwind component, an operator, when calculating take-off performance may take into account not:
+a) less than 50% of the reported headwind component
+b) more than 50% of the reported headwind component
+c) more than 80% of the reported headwind component
+d) more than 150% of the reported headwind component.
+B
+IV.	PERFORM CLASS 1
+215. If, during descent in a Performance Class 1 helicopter which has one engine inoperative, fuel is to be jettisoned, the fuel contents should be kept to a figure which enables the aircraft to carry out:
+a) A hold.
+b) A safe forced landing.
+c) A safe let-down procedure.
+d) A diversion.
+C
+216. When planning for landing a Performance Class 1 helicopter, the following information must be considered:
+a) Take-off technique.
+b) The ambient pressure at the destination heliport
+c) Not less than 175% of forecast tailwind
+d) Not more than 75% of forecast headwind.
+B
+217. With reference to CAP 758 figure 3.11. Find the ROC, given AUM 7750kg, OAT 0°C, PA 11000ft, all engines operating at max continuous rating.
+
+a) 980 fpm
+b) 1080 fpm
+c) 800 fpm
+d) 1300 fpm
+B
+218. Reference annex or CAP 758 Figure 3.12.
+For the TETH operating in Performance Class 1 determine the Maximum Take-off Mass (MTOM) that will give minimum obstacle clearance within 5nm of track and a minimum ROC of 50 fpm over a mountainous area of 8000ft OAT +10°C at that altitude.
+
+a) 8000 kgs
+b) 7300 kgs
+c) 7700 kgs
+d) 7000 kgs
+B
+219. At annex or CAP 758 fig 3.39.For the TETH determine the gradient of climb at 200 ft agl. Given: Mass 6900 kg, PA 11000 ft, OAT -10°C. Speed VTOSS. OEI.
+a) 1.89%
+b) 6.44%
+c) 2.01%
+d) 5.74%
+A
+220. An aircraft must be capable of the following OEI performance when en-route in the cruise?:
+a) 35 ft/min rate of climb at 1000 ft above mountainous terrain, clear of obstacles within 900m either side of track, when VFR.
+b) 35 ft/min rate of climb at 1000 ft above mountainous terrain, clear of obstacles within 900m either side of track, when IFR.
+c) 50 ft/min rate of climb at 2000 ft above mountainous terrain, clear of obstacles within 5 nm either side of track, when IFR.
+d) 50 ft/min rate of climb at 2000 ft above mountainous terrain, clear of obstacles within 5 nm either side of track, when VFR.
+C
+221. In Performance Class 1 operations, unless otherwise approved by the competent authority, in order to ensure that climb gradients can be maintained, turning by more than 15° to comply with a procedure is only allowed after what height above the take-off surface?
+a) 10 m (35 ft)
+b) 61 m (200 ft)
+c) 152 m (500 ft)
+d) 300 m (1000 ft)
+B
+222. For the calculation of MTOW for a Performance Class 1 helicopter, the following factoring of reported tail-wind is used:
+a) 100%
+b) 75%
+c) 150%
+d) 50%
+C
+223. With one engine inoperative, a helicopter with Performance Class 1, when landing at an elevated heliport, must be able to clear all obstructions vertically by:
+a) A safe margin
+b) 35 ft
+c) 4.5 m
+d) 15 m
+B
+224. What is the ROC OEI service ceiling for the TETH
+a) 150 fpm
+b) 100 fpm
+c) 200 fpm
+d) 50 fpm
+A
+225. In Performance Class 1 (PC1) operation of a large helicopter, the drift-down technique is used to perform a...
+a) controlled emergency landing in case of a failure of the tail rotor or fixed pedal controls.
+b) controlled recovery procedure, in case of encountering a vortex ring state during the landing phase.
+c) fuel-saving descent from the assigned en-route altitude to the Initial Approach Fix (IAF) at destination.
+d) descent when encountering a critical engine failure at an altitude above the OEI service ceiling.
+D
+226. Consider the alternative take-off profile for a PC1 helicopter certified in accordance with CS- 29...
+a) HOGE power is required.
+b) Using HIGE power will allow a steeper flight path.
+c) A steeper flight path will be allowed using HOGE power.
+d) HIGE power is required as a minimum.
+A
+227. Allowing a helicopter to descend to a level which can be maintained on the remaining power units is called:
+a) Drift-down
+b) Controlled descent
+c) Auto level
+d) Self-levelling
+A
+228. With reference to CAP 758 figure 3.17. The TETH has suffered an engine failure at 12000 ft PA and commenced the driftdown. Start of driftdown mass 7000 kg. Calculate the distance flown and the stabilising height.
+
+a) Distance 9 NM Stabilising PA 10000 ft
+b) Distance 9 km Stabilising PA 9800 ft
+c) Distance 12 NM Stabilising PA 10000 ft
+d) Distance 11 NM Stabilising PA 9800 ft
+A
+229. Fuel jettisoning for en-route terrain clearance with OEI shall not be planned below:
+a) 1000 ft amsl
+b) 1500 ft amsl.
+c) 1000 ft QNE
+d) 1000 ft above terrain
+D
+230. For a Performance Class 1 take-off profile and taking into account the criteria listed below, until it has achieved Vross a helicopter may NOT fly closer to the ground than what height? Critical Power Unit: inoperative, Take-Off Decision Point: 30 ft.
+a) 30 ft.
+b) An adequate margin.
+c) 107 ft (35 m).
+d) 35 ft.
+D
+231. When planning for OEI in the cruise in IMC a helicopter in PC2 must be able to maintain a rate of climb of at least:
+a) 100 fpm at 200 ft
+b) 50 fpm but PC2 must maintain VMC and remain above MSA
+c) 50 fpm at 2000 ft above all mountainous terrain
+d) 150 fpm at 1000 ft
+C
+232. When en-route in a Performance Class 1 helicopter which has had an engine failure, the mass of the aircraft must be such that a rate of climb may be achieved and maintained. When not visual with the surface and not over a mountainous area, that rate of climb should be a minimum of:
+a) 100 ft/min at an altitude of 1000 ft
+b) 50 ft/min at an altitude of 1000 ft
+c) 150 ft/min at an altitude of 2000 ft
+d) 50 ft/min at an altitude of 2000 ft
+B
+233. Refer to the annex or Figure 3.12, CAP 758. For the TETH operating in PC1 determine the MTOM to comply with the regulatory ROC requirement at 1000ft in PC1 operations. Given airfield PA 15000 ft, OAT -10°C.
+
+a) 7100 kg
+b) 6200 kg
+c) 7800 kg
+d) 5900 kg
+D
+234. For take off with a tail wind component in class 1 performance an operator must take account of at least:
+a) 50% of the reported tail wind component
+b) 80% of the reported tail wind component
+c) D150% of the reported tail wind component
+d) 120% of the reported tail wind component
+C
+235. When planning for landing a Performance Class 1 helicopter, the following information must be considered:
+a) Any expected change in mass during flight.
+b) Not more than 75% of forecast headwind.
+c) Take-off technique.
+d) Not less than 175% of forecast tailwind
+A
+236. When planning obstacle avoidance on the take-off path of a Performance Class 1 helicopter in IFR with standard course guidance, which has suffered an engine failure, consideration need not be given to obstacles which are further than:
+a) 30 m +.15 DR for IFR
+b) 2 x length of helicopter
+c) 30 ft
+d) 1.5 x length of the helicopter +.15 DR for VFR
+A
+237. When planning for one engine inoperative in the cruise, a helicopter operating in Performance Class 1 or 2 must be able to maintain a rate of climb of at least:
+a) 150 ft/min at 300 m
+b) 100 ft/min at 1000 ft
+c) 50 ft/min at 2000 ft in mountainous areas
+d) 100 ft/min
+C
+238. For a Performance Class 1 helicopter take-off what is the minimum height allowed to fly until reaching VTOSS, considering the following data; TDP = 30ft; Critical engine inoperative
+a) 35 ft
+b) 15 ft
+c) An adequate margin.
+d) 30 ft
+B
+239. Which of the following statements is correct?
+a) An engine failure at high cruising altitude will always result in a drift down, because it is not permitted to fly the same altitude as with all engines operating.
+b) The drift down regulations require a minimum descent angle after an engine failure at cruising altitude.
+c) When determining the obstacle clearance during driftdown fuel dumping may be taken into account.
+d) The drift down procedure requires a minimum obstacle clearance of 35 ft.
+C
+240. An increase in ambient temperature:
+a) Increases performance in performance class 1 and especially the take-off weight
+b) Generally reduces performance in performance class 1 and especially the take-off weight
+c) Increases or does not influence take-off weight depending on the aircraft type
+d) Does not influence performance in performance class 1 and especially the take-off weight
+B
+241. When calculating the landing weight of a Performance Class 2 helicopter with one engine inoperative, the following must be considered:
+a) The headwind.
+b) The passengers and freight to be uplifted.
+c) The tailwind.
+d) 50% of the forecast headwind.
+D
+242. In performance class 1 when there is a head wind component, an operator, when calculating take-off performance may take into account not:
+a) Less than 50% of the reported headwind component
+b) More than 150% of the reported headwind component
+c) More than 80% of the reported headwind component
+d) More than 50% of the reported headwind component
+D
+243. Obstacles beyond 10R may be disregarded in PC1:
+a) For night operations with suitable visual navigation clues
+b) For all operations in IFR/VMC
+c) For day operations with visual navigation clues
+d) For night operations with accurate course guidance
+A
+244. Ref annex or CAP 758 Fig 3.40.
+Given the following data find d, the critical time, and D1, the take-off distance. Mass 16000 lbs, PA 5000 ft, OAT -20°C. HW 20 kts
+
+a) 4 secs, 270m.
+b) 30 kts 270 m.
+c) 4 secs, 270 ft
+d) 5 secs, 200 ft
+A
+245. Assuming one engine inoperative in a helicopter with Performance Class 1, during an approach to land, the following minimum rate of climb must be achievable:
+a) At 150 ft   300 ft/min
+b) At 150 ft   1000 ft/min
+c) At 200 ft   60 m/sec
+d) At 60 m   100 ft/min
+D
+246. For a Performance Class 1 helicopter en-route with OEI in VFR and with the surface not in sight the minimum ROC required is?
+a) 300 fpm
+b) 50 fpm at 2000 ft over all obstacles and terrain in a mountainous area.
+c) 50 fpm at 2000 ft in a mountainous area.
+d) 150 fpm
+B
+247. When flying for endurance minimum drag speed is not used. This is because thrust is:
+a) Not directly related to fuel flow mass.
+b) Not directly related to fuel mass.
+c) Related to fuel density.
+d) Related to fuel flow.
+D
+248. Which of the following criteria must be established at the landing decision point LDP on a clear airfield?
+a) Height 50 ft, V1 40 kt, ROD 300-500 fpm
+b) Height 100 ft, VY 40 kt, ROD 300-500 fpm
+c) Height 100 ft, VI 40 kt, ROD 300-400 fpm
+d) Height 100 ft, VI 40 kt, ROD 300-500 fpm
+D
+249. With reference to CAP758 figure 3.43. Determine the distance D3 for the TETH to accelerate from VTOSS to V in segment 3 given: PA 8000 ft OAT 0°C Mass 7000 kg Wind 20kts HW
+
+a) 250 m/750 ft
+b) 1000 m/3000 ft
+c) 280 m/900 ft
+d) 300 m/1000 ft
+C
+250. What is the minimum obstacle clearance required for a Performance Class 1 helicopter if an engine failure is experienced prior to landing on a heliport and a balked landing must be performed?
+a) 35 ft
+b) 150 ft
+c) 15 ft
+d) 50 ft
+A
+251. Please refer to the annex.
+A helicopter suffers a single engine failure during cruise flight. The pilot wants to know the service ceiling of the helicopter, i.e. the highest pressure altitude where the helicopter can maintain a rate of climb of 100 ft/min. Use the attached chart to determine this altitude given a gross mass of 8000 kg and an OAT of +10° C.
+
+a) 10000 ft
+b) 8200 ft
+c) 7000 ft
+d) 6500 ft
+D
+252. Reference the two annexes or CAP 758 fig 3.13 and fig 3.14.For the TETH determine the 2 engine cruise speed and hourly fuel consumption at 15000 ft. OAT -15°C. Mass 7500 kg
+
+a) 102 KIAS, 185 USG/hr
+b) 180 KTAS, 780 lb/hr
+c) 102 KTAS, 355 kg/hr
+d) 102 KIAS, 442 l/hr
+C
+253. In class 1 performance a multi- engine helicopter with dimension 'D' of 16m is to depart VFR day. For the purpose of obstacle clearance it is not necessary to consider obstacles that are further than:
+a) 16m+ 0.15DR
+b) 1.5D or 30m (whichever is greater) + 0.15DR
+c) 24m +0.10Dr
+d) 16m+0.10DR
+D
+254. For a take-off on a clear airfield, procedure 1, what is the minimum speed in the second segment of the take-off flight path
+a) VMINI
+b) VMIN
+c) VY
+d) VTOSS
+D
+255. In performance class 1, having cleared the elevated heliport or helideck platform's edge, in case of an engine failure after the take-off decision point, the helicopter can clear any obstacle until the end of the take-off required distance with a margin of:
+a) At least 35 ft
+b) At least 15 ft vertically
+c) At least 35 ft vertically
+d) 35 ft
+C
+256. In a clear are take-off procedure with an engine failure at TDP and a continued take-off the helicopter should not normally descend below a height of:
+a) 50 ft
+b) 15 ft
+c) 35 ft
+d) 10 ft
+B
+257. A pilot operating a helicopter in Performance Class 1 intends to land but experiences a critical power-unit failure before reaching the LDP. Which option is correct?
+a) A balked landing may be conducted, but only if the helicopter is in sight of the surface.
+b) The pilot is committed to land because in PC1 a balked landing is NOT possible.
+c) A safe forced landing is NOT assured because the failure occurred before reaching the LDP.
+d) The pilot can continue the landing and stop within the FATO, or execute a balked landing.
+D
+258. In Performance Class 2, unless as part of an approved procedure, no turns are allowed below a height of:
+a) 35 ft
+b) 1000 ft
+c) The screen height.
+d) 200 ft
+D
+259. An increase in density altitude:
+a) increases or does not influence take-off weight depending on the aircraft type
+b) Does not influence performance in performance class 1 and especially the take-off weight
+c) Increases performance in performance class 1 and especially the take-off weight
+d) Generally reduces performance in performance class 1 and decreases especially the take-off weight
+D
+260. Assuming that an engine fails at some point during take-off, a helicopter of Performance Class 1 must be able to clear all obstacles, vertically, by:
+a) 10.7 m + .01 DR in IFR
+b) 35 m in IFR
+c) 35 m in VFR
+d) 10.7 ft in VFR
+A
+261. Following an engine failure en-route when not visual with the surface, the helicopter must clear obstacles within a 5nm domain either side of intended track. The flight conditions improve to VMC and the surface is in sight. What are the dimensions of the obstacle domain?
+a) 900m semi-width
+b) 600m semi-width
+c) 10R
+d) 300m semi-width
+A
+262. Please refer to the annex.
+Given a gross mass of 6300 kg and an OAT of -5° C, at what pressure altitude can the helicopter maintain a hover IGE with one engine inoperative?
+
+a) 7500 ft
+b) 6250 ft
+c) 5250 ft
+d) 5500 ft
+B
+263. ATC request that a descent from 6500 ft to 4000 ft in 8.3 NM. TAS is 154 kt. The rate of descent needed is
+a) 618 ft/min
+b) 802 ft/min
+c) 642 ft/min
+d) 773 ft/min
+D
+264. If carrying out a balked landing the minimum ROC at 200ft is:
+a) Minimum ROC does not apply until 1000 ft
+b) 150 ft/min
+c) 100 ft/min
+d) 50 ft/min
+C
+265. With reference to CAP758 figure 3.44. Determine the distance D4 and the gradient required for the TETH to climb from 200 ft to 1000 ft given: PA 8000 ft OAT 0°C Mass 7000 kg Wind 20 kts HW
+
+a) 180 m/600 ft/8%
+b) 1000 m/3000 ft/6%
+c) 3000 m/10000 ft/8%
+d) 250 m/750 ft/12%
+C
+266. In level flight, in performance class 1 and 2, with one engine failed and the others operating, at 1000 ft above any obstacle along the route, the weight of the helicopter must allow it to climb:
+a) At least 50 ft/mn
+b) At least 100 ft/mn
+c) At least 150 ft/mn
+d) At no definite value by the authority
+A
+267. In performance class 1, with one engine failed and the others operating normally, the helicopter's weight at the estimated time of landing must be such that a rate of climb of at least 150ft/mn at 1000 ft above the altitude of:
+a) The destination heliport
+b) The take off heliport
+c) The alternate heliport
+d) The destination or alternate/diversion heliport
+D
+268. The "take-off path" is the horizontal and vertical profile calculated:
+a) With AEO to 1000 ft.
+b) With AEO to 1500 ft.
+c) With OEI to 1500 ft.
+d) With OEI to 1000 ft.
+D
+269. In a descent, with one engine inoperative, a helicopter with Performance Class 1 must be able to follow a flight path which clears all obstacles vertically by:
+a) 10 nm
+b) 600 m
+c) 300 m
+d) 1000 m
+C
+270. In performance class 1, for a multi-engine helicopter of a length less than 15 metres, it is not necessary to take into account obstacles whose lateral margin relative to the helicopter's flight path in IFR with standard course guidance with the critical engine failed is greater than a certain distance, which is:
+a) 30 metres + 0.30 DR
+b) 22.5 metres + 0.30 DR
+c) 30 metres + 0.15 DR
+d) 22.5 metres + 0.15 DR
+C
+271. At annex or CAP 758 figure 3.42. For the TETH the second segment of the take-off flight path requires a minimum flight path gradient of 19% at a PA 5000ft, +10°C, speed VTOSS, 10 kts HW. Determine the limiting mass.
+
+a) 6520 kgs
+b) 6250 kgs
+c) <4500 kgs
+d) 6450 kgs
+D
+272. Driftdown is the procedure to be utilised:
+a) To conduct an instrument approach at the alternate.
+b) After cabin depressurisation
+c) To conduct a visual approach with one engine out.
+d) After engine failure, if the helicopter is above the one-engine-inoperative cruise ceiling
+D
+273. When en-route in a Performance Class 1 helicopter which has had an engine failure, the mass of the aircraft must be such that a rate of climb may be achieved and maintained. When not visual with the surface, that rate of climb is:
+a) At least 150 ft/min at an altitude of 1000 ft.
+b) 50 ft/min at an altitude of 300 ft.
+c) At least 50 ft/min at an altitude of 2000 ft in mountainous areas.
+d) 100 ft/min at an altitude of 300 m.
+C
+274. Maximum endurance:
+a) Is the same as maximum specific range with wind correction
+b) Will be achieved by flying with minimum fuel flow (kg/h)
+c) Is the same as maximum specific range
+d) Will be achieved flying with minimum fuel consumption (kg/nm)
+B
+275. (Please refer to the image provided, or CAP 758 Figure 3.44). What maximum mass will provide a climb gradient of 15% at a pressure altitude of 5000 feet and an OAT of +2° C in nil wind conditions?
+
+a) 7120 kg
+b) 6500 kg
+c) 7000 kg
+d) 6000 kg
+B
+276. In class 1 performance, with one engine failed and the others operating, a helicopter's weight at the estimated landing time must allow it to climb at least at:
+a) 100 ft/mn at 200ft, above the destination and the alternate heliports
+b) 150ft/mn at 1000ft and 100 ft/mn at 200ft, above the destination and the alternate heliports
+c) 150ft/mn at 1000ft above the destination and the alternate heliports
+d) 150ft/mn at 1000ft and 100 ft/mn at 200ft, above the destination heliport
+B
+277. In performance class 1, when the wind measuring equipment has not received official approval, and there is a headwind component, to determine landing performance an operator may take account of at:
+a) Most, 80% of the reported headwind component
+b) Most, 50% of the reported headwind component
+c) Most, 40% of the reported headwind component
+d) Least, 50% of the reported headwind component
+B
+278. Which of the following correctly defines the flight path and configuration in segment 3 for the TETH Procedure 1?
+a) Climbing to 200 ft, accelerating from VTOSS to WY, Gear up, bleed air off
+b) Level at 200 ft, accelerating from VTOSS to VY, Gear down, bleed air off
+c) Level at 200 ft, Accelerating from VTOSS to VY, Gear down, air conditioning on.
+d) Level at 200 ft, Accelerating from VTOSS to VY, Gear up, bleed air off
+B
+279. Given: PA 6500ft, OAT +16°C, find the limiting take-off mass.
+
+a) 8150 lbs
+b) 8500 kgs
+c) 18900 lbs
+d) 8150 kgs
+D
+280. Please refer to the annex. A helicopter operating in Performance Class 1 commences a short-field take-off, as shown in the annex. Concerning the RTODRH, this...
+
+a) is equal to distance D1, where the minimum required obstacle clearance (h) is achieved.
+b) depends on density altitude, take-off mass, and the selected obstacle clearance height (h).
+c) reduces with headwind and shall be less than the horizontal distance L.
+d) is equal to distance D2, where VTOSS is achieved, with one engine inoperative.
+C
+281. In class 1 performance a multi- engine helicopter with 'D' of 16m is to depart VFR night. For the purpose of obstacle clearance it is not necessary to consider obstacles that are further than:
+a) 1.5D or 30m (whichever is greater) + 0.15DR
+b) 24m +0.10Dr
+c) 16m+ 0.10DR
+d) 16m+ 0.15DR
+D
+282. Please refer to the annex.
+What maximum mass will allow compliance with the Category A requirements when a suitably equipped helicopter operating under IFR is crossing a mountain range that is 10000 feet high, and the MSL temperature is reported as being +20°C?
+
+a) 7500 kg
+b) 8150 kg
+c) 7300 kg
+d) 7000 kg
+D
+283. A helicopter of Performance Class 1 must achieve, on take-off, a rate of climb of:
+a) 1000 ft/min at 1000 ft.
+b) 150 ft/min at 60 m.
+c) 100 ft/min at 200 ft.
+d) 100 ft/min at 300 m
+C
+284. In performance class 1, with one engine failed and the others operating normally, the helicopter's weight at the estimated time of landing must permit a rate of climb of at least 100ft/mn at 200 ft above the altitude of:
+a) The take off heliport
+b) The destination or alternate/diversion heliport
+c) The destination heliport
+d) The alternate heliport
+B
+285. In the event of a engine failure in the cruise the minimum pilot reaction time is:
+a) Two seconds.
+b) One second or normal pilot reaction time whichever is greater.
+c) Normal pilot reaction time.
+d) No time is specified.
+B
+286. Where is the maximum range speed found on the fuel flow curve?
+a) Back of the fuel flow curve.
+b) Bottom of the fuel flow curve.
+c) Tangent from the power required curve to the fuel flow curve.
+d) From the tangent of the origin to the fuel flow curve.
+D
+287. In accordance with EU-OPS regulations :Assuming an engine failure has occurred during take-off, a Performance Class 1 helicopter which plans a turn in the climb of more than 15° must be capable of clearing vertical obstructions by an extra height margin which is:
+a) Not defined
+b) 35 ft
+c) 7m
+d) 3 m
+A
+288. In PC1, the take-off flight path is on HDG 300°M, the pilot plans a turn onto 330°M at 200 ft with a transition to IFR after the TDP. The obstacle clearance requirement is:
+a) 35 ft
+b) 35 ft + 0.01DR + 15 ft
+c) 35 ft +1.5D +0.01DR + an adequate margin
+d) 35 ft + 0.01DR + an adequate margin
+D
+289. Please refer to the annex. A helicopter experienced OEI and is transitioning from 200 ft to 1000 ft AGL. What path distance is required if the helicopter is weighing 7000 kg and the ambient conditions are 5000 feet pressure altitude, an OAT of -10° C and nil wind conditions?
+
+a) 1750 m
+b) 2100 m
+c) 1475 m
+d) 2498 m
+A
+290. In PC1......... is the smallest change of direction that will require a specific allowance for obstacle clearance when taking off having suffered an engine failure after the TDP.
+a) 15°
+b) in
+c) 10°
+d) 20°
+A
+291. A helicopter is en route to its destination with a ground speed of 130 kt when the crew is instructed by ATC to change their flight level from FL70 to FL45 before reaching their next reporting point, which is located 6.5 NM ahead. What is the minimum rate of descent that the flight crew must set to comply with ATC instructions?
+a) 805 ft/min
+b) 1000 ft/min
+c) 903 ft/min
+d) 833 ft/min
+D
+292. In Class 1 performance, for a multi-engine helicopter of a length less than 15 metres, it is not necessary to take into account obstacles whose lateral margin relative to the helicopter's flight path in IFR with standard course guidance, with the critical engine failed is greater than a certain distance.
+a) This distance in IFR flight is: 22.5 metres + 0.15 DR
+b) This distance in visual flight is: 22.5metres + 0.30 DR
+c) This distance in IFR flight is 30 metres + 0.15 DR
+d) This distance in visual flight is: 30 metres + 0.30 DR
+C
+293. When landing, a helicopter with Performance Class 1 and one engine inoperative must be able to land within the LDAH, or, if carrying out a balked appoach, must clear, vertically, all obstructions by:
+a) 15 m
+b) 35 ft
+c) 35 m
+d) 4.5m
+B
+294. Which of the following statements is correct with regard to limited power operations?
+a) Turning reduces the total rotor thrust required and increases power available.
+b) With limited power an increase in bank angle decreases the power required due to the decrease in effective weight
+c) With limited power turning decreases the power required and may lead to loss of height.
+d) With limited power turning increases the power required and may lead to loss of height.
+D
+295. In the event of a balked landing in PC1 the correct configuration at 1000 ft is:
+a) Critical engine inoperative, remaining engines at MCP, Gear retracted, Speed VY, minimum ROC 150 fpm
+b) Critical engine inoperative, remaining engines at MCP, Gear retracted, Speed VMIN, minimum ROC 150 fpm
+c) Critical engine inoperative, remaining engines at MCP, Gear down, Speed VTOSS, minimum ROC 100 fpm
+d) Critical engine inoperative, remaining engines at take-off power, Gear down, Speed VTOSS, minimum ROC 150 fpm
+A
+296. Given the following data determine VTOSS. PA 3000 ft, OAT +20°C, TOM 8400 kg
+
+a) 45 kts
+b) 46 kts
+c) 43 kts
+d) 48 kts
+A
+297. In Performance Class 1 helicopter operations, at the beginning of which segment in the Category A take-off flight path must the best rate of climb speed (Vy) be achieved?
+a) The segment between 35 feet and 200 feet.
+b) The acceleration segment.
+c) The segment after acceleration.
+d) The segment between the hover and 35 feet.
+C
+298. How much of the tailwind should be considered for a performance class 1 helicopter?
+a) 150 % tailwind.
+b) Less than 150 % tailwind if precise wind-measuring equipment is available at the take-off area.
+c) Less than 100 % tailwind if precise wind-measuring equipment is available at the take-off area.
+d) Not less than 150 % of any reported tailwind component.
+D
+299. Assuming an engine failure has occurred during a VFR take-off, a Performance Class 1 helicopter which plans a turn in the climb of more than 15° must be capable of clearing vertical obstructions by:
+a) 15 ft
+b) 35 ft
+c) 5  m
+d) 3 m
+B
+300. Take-off - performance class 1. Where a change of direction of more than is made, adequate allowance shall be made for the effect of bank angle on the ability to comply with the obstacle clearance requirements. This turn is not to be initiated before reaching a height of 61 m (200 ft) above the take-off surface unless it is part of an approved procedure in the AFM.
+a) 150
+b) 300
+c) 50
+d) 100
+A
+301. Assuming that an engine fails at some point during take-off, a helicopter of Performance Class 1 must be able to clear all obstacles, vertically, by:
+a) 35 m in IFR.
+b) 10.7	ft in VFR.
+c) 10.7	m + 0.01 DR in IFR.
+d) 35 m in VFR.
+C
+302. In Performance Class 1, for a multi-engine helicopter of a total length with the rotors turning of less than 15 metres, it is not necessary to take into account obstacles whose lateral margin relative to the helicopter's flight path with the critical engine failed is greater than a certain distance.
+a) This distance i s 22.5 metres + 0.10 DR for VFR operations with accurate course guidance.
+b) This distance i s 22.5 metres + 0.10 DR for IFR operations with accurate course guidance.
+c) This distance is 15 metres + 0.15 DR for IFR operations with standard course guidance.
+d) This distance is 30 metres + 0.15 DR for IFR operations with standard course guidance.
+D
+303. For take-off with a tailwind component in class 1 performance an operator must take account of at least:
+a) 120% of the reported tailwind component.
+b) 50% of the reported tailwind component.
+c) 80% of the reported tailwind component.
+d) 150% of the reported tailwind component.
+D
+304. For the calculation of MTOW for a Performance Class 1 helicopter, the following factoring of reported tailwind is used:
+a) 150%
+b) 50%
+c) 100%
+d) 80%
+A
+305. When planning obstacle avoidance on the take-off path of a Performance Class 1 helicopter which has suffered an engine failure, consideration need not be given to obstacles which are further than:
+a) 2 x length of helicopter.
+b) 30 ft.
+c) 30 m + 0.15 DR for VFR.
+d) 1.5 x length of the helicopter (or 30 m) + 0.15 DR for IFR.
+D
+306. An increase in ambient temperature:
+a) generally reduces performance in Performance Class 1 and especially the take-off weight
+b) increases performance in Performance Class 1 and especially the take-off weight
+c) does not influence performance in Performance Class 1 and especially the take-off weight
+d) increases or does not influence take-off weight depending on the aircraft type.
+A
+307. A helicopter of Performance Class 1 must achieve, on take-off, a rate of climb of:
+a) 150 ft/min at 60 m.
+b) 100 ft/min at 200 ft.
+c) 1000 ft/min at 1 000 ft.
+d) 100 ft/min at 300 m.
+B
+308. In performance class 1, having cleared the elevated heliport or heliplatform's edge, in case of an engine failure after the take-off decision point, the helicopter can clear any obstacle until the end of the take-off required distance with a margin of:
+a) at least 15 ft vertically.
+b) 35 ft.
+c) at least 35 ft.
+d) at least 35 ft vertically.
+D
+309. In performance class 1 when there is a headwind component, an operator, when calculating take-off performance may take into account not:
+a) more than 50% of the reported headwind component
+b) less than 50% of the reported headwind component
+c) more than 80% of the reported headwind component
+d) more than 150% of the reported headwind component.
+A
+310. When calculating the take-off flightpath (CPUI) in Performance Class 1 and 2, the Commander is allowed to use a certain amount of the reported headwind component. How much?
+a) 150%
+b) Not less than 50%
+c)  ≤50%
+d) <50%
+C
+311. Obstacle clearance during the take-off flight path on magnetic track 205° in Performance Class 1 - VFR flight - with a left turn at 250 ft AGL to a new track of 175°, is:
+a) 35 ft.
+b) 35 ft + 0.01 DR + 15 ft.
+c) 50 ft.
+d) 35 ft+ 0.01 DR.
+A
+22048 Exhaustive
+312. The part of the take-off in both Performance Class 1 and 2 up to and including the TDP / DPATO shall be conducted in sight of the surface.
+a) True.
+b) False.
+A
+26579
+313. Refer to elevated heliports and helidecks. In case of a CPUI, all obstacles must be cleared during take-off until end of take-off distance required, by...
+a) 15 ft.
+b) 50 ft.
+c) 35 ft.
+d) 35 ft (day-VFR), 50 ft (night-IFR).
+C
+314. Obstacles beyond 10R may be disregarded in Performance Class 1:
+a) for day operations with suitable visual cues during the climb
+b) for all operations IFR / VMC.
+c) for night operations if navigational accuracy can be achieved by reference to suitable visual cues during the climb
+d) none of the above.
+C
+315. In performance class 1 and 2, when calculating Take-off Mass an operator shall ensure that account shall be taken of?
+a) Not less than 150% of the reported tailwind component.
+b) Not less than 50% of the reported headwind component.
+c) Temperature inversions above 1 000 ft AGL.
+d) None of the above.
+A
+316. What DR shall be used when calculating obstacle clearance with CPUI along the take-off flightpath (Performance Class 1 helicopter under IFR)?
+a) 0.15 DR.
+b) 0.30 DR.
+c) 0.01 DR.
+d) None of the above.
+C
+317. Along the take-off flight path obstacles may be disregarded if they are situated beyond:
+a) 7R for DAY-OPS (1 OR, Night-OPS) if NAV accuracy is achieved by ref. to suitable visual cues
+b) 300 m if NAV accuracy is achieved by NAVAIDS.
+c) 900 m in other cases than mentioned in A and B.
+d) all of the above.
+D
+318. Performance Class 1 and 2 helicopters. An operator shall ensure that if the flight will be conducted at any time out of sight with the surface (CPUI):
+a) the mass of the helicopter permits a climb rate of 100 ft/min.
+b) the mass of the helicopter permits a climb of 50 ft/min at an altitude of at least 2000 ft AGL (600 m) in mountainous areas.
+c) the mass of the helicopter permits obstacle clearance within 5 NM on either side of the intended track (IMC).
+d) the mass of the helicopter permits a climb of 50 ft/min at an altitude of at least 2000 ft AGL (600 m) in mountainous areas and the mass of the helicopter permits obstacle clearance within 5 NM on either side of the intended track (IMC).
+D
+319. In a descent, with one engine inoperative, a helicopter with Performance Class 1 must follow a flight path which clears all obstacles vertically by:
+a) 1.000 m
+b) 300 m
+c)  600 m
+d) 10 NM
+B
+320. When allowing a helicopter to descend to a level, which can be maintained, on the remaining power units this technique is called:
+a) auto level
+b) self-leveling
+c) controlled descent
+d) drift down.
+D
+321. If, during descent in a Performance Class 1 helicopter which has one engine inoperative, fuel is to be jenisoned, the fuel contents should be kept to a figure which enables the aircraft to carry out:
+a) a safe forced landing.
+b) a safe let-down procedure
+c) a diversion
+d) a hold.
+ B
+322. When enroute in a Performance Class 1 helicopter which has had an engine failure, the mass of the aircraft must be such that a rate of climb may be achieved and maintained. When not visual with the surface, that rate of climb is:
+a) 150 ft/min at an altitude of 1 000 ft.
+b) 100 ft/min at an altitude of 300 m.
+c) 50 ft/min at an altitude of 2000 ft in mountainous areas.
+d) 50 ft/min at an altitude of 300 ft.
+ C
+323. Fuel jettisoning shall not be planned below:
+a) 1500 ft MSL.
+b) 1200 ft above the take-off surface.
+c) 1000 ft above terrain.
+d) 1000 ft AMSL.
+C
+324. In a power-off autorotation in still air, to obtain the maximum glide range, the helicopter should be flown:
+a) at a speed close to the Vne power-on
+b) at a speed close to the VNE
+c) at a speed close to the best range speed and with minimum rotor speed without exceeding the VNE power-off.
+d) at a speed close to maximum endurance speed.
+C
+325. When landing, a helicopter with Performance Class 1 and one engine inoperative must be able to land within the LDAH, or, if carrying out a balked approach, must clear, vertically, all obstructions by:
+a) 4.5m
+b) 15 m
+c) 35 ft
+d) 35 m
+C
+326. In class 1 performance, with one engine failed and the others operating, a helicopter's weight at the estimated landing time must allow it to climb at least at:
+a) 100 ft/min at 200 ft, above the destination and the alternate heliports.
+b) 150 ft/min at 1000 ft above the destination and the alternate heliports.
+c) 150 ft/min at 1000 ft and 100 ft/min at 200 ft, above the destination and the alternate heliports.
+d) 150 ft/min at 1 000 ft and 100 ft/min at 200 ft, above the destination heliport.
+C
+327. In Performance Class 1, with one engine failed and the others operating normally, the helicopter's weight at the estimated time of landing must be such that a rate of climb can be maintained of at least 100 ft/min at 200 ft above the altitude of:
+a) the take-off heliport
+b) the destination heliport. 
+c) the alternate heliport.
+d) the destination or alternate/diversion heliport.
+D
+328. Assuming one engine inoperative in a helicopter with Performance Class 1, during an approach to land, the following minimum rate of climb must be achievable:
+a) at 200 ft 60 m/sec.
+b) at 150 ft 300 ft/min.
+c) at 60 m 100 ft/min.
+d) at 150 ft 1000 ft/min.
+C
+329. When planning for landing a Performance Class 1 helicopter, the following information must be considered:
+a) the standard pressure at the heliport
+b) take-off technique.
+c) not more than 75% of forecast headwind
+d) any expected change in mass during flight.
+D
+330. In performance class 1, when the wind measuring equipment has not received official approval, and there is a headwind component, to determine landing performance an operator may take account of at:
+a) least, 50% of the reported headwind component.
+b) most, 50% of the reported headwind component
+c) most, 80% of the reported headwind component
+d) most, 40% of the reported headwind component.
+B
+331. With one engine inoperative, a helicopter with Performance Class 1, when landing at an elevated heliport, must be able to clear all obstructions vertically by:
+a) 4.5m.
+b) 15 m.
+c) 35 ft.
+d) a safe margin.
+C
+332. In Performance Class 1r with one engine failed and the others operating normally, the helicopter's weight at the estimated time of landing must be such that a rate of climb of at least 150 ft/min at 1000 ft above the altitude of:
+a) the destination heliport
+b) the alternate heliport.
+c) the destination or alternate/diversion heliport
+d) the take-off heliport.
+C
+333. In a descent, with one engine inoperative, a helicopter with Performance Class 1 must follow a flight path which clears all obstacles vertically by:
+a) 1000 m
+b) 10 nm
+c) 300 m
+d) 600 m
+334.    In performance class 1, when the wind measuring equipment has not received official approval, and there is a headwind component, to determine landing performance an operator may take account of at:
+a) most, 50% of the reported headwind component
+b) most, 80% of the reported headwind component
+c) most, 40% of the reported headwind component
+d) least, 50% of the reported headwind component
+ A
+335. For take off with a tail wind component in class 1 performance an operator must take account of at least:
+a) 150% of the reported tail wind component
+b) 120% of the reported tail wind component
+c) 50% of the reported tail wind component
+d) 80% of the reported tail wind component
+ A
+336. A helicopter of Performance Class 1 must achieve, on take-off, a rate of climb of:
+a) 100 ft/min at 300 m
+b) 150 ft/min at 60 m.
+c) 100 ft/min at 200 ft.
+d) 1000 ft/min at 1000 ft.
+ C
+337. An increase in ambient temperature:
+a) does not influence performance in performance class 1 and especially the take-off weight
+b) increases performance in performance class 1 and especially the take-off weight
+c) generally reduces performance in performance class 1 and especially the take-off weight
+d) increases or does not influence take-off weight depending on the aircraft type
+ C
+338. An increase in pressure altitude:
+a) generally reduces performance in class 1 and especially the take-off weight
+b) does not influence performance in class 1 and especially not on the take-off weight
+c) increases performance in class 1 and especially the take-off weight
+d) increases or does not influence take-off weight depending to aircraft type
+ A
+339. Assuming an engine failure has occurred during take-off, a Performance Class 1 helicopter which plans a turn in the climb of more than 15° must be capable of clearing vertical obstructions by an extra:
+a) 3 m
+b) 7R
+c) 15 ft
+d) 35 ft
+ C
+340. Assuming one engine inoperative in a helicopter with Performance Class 1, during an approach to land, the following minimum rate of climb must be achievable:
+a) At 150 ft 1000 ft/min
+b) At 60 m 100 ft/min
+c) At 150 ft 300 ft/min
+d) At 200 ft 60 m/sec
+ B
+341. Assuming that an engine fails at some point during take-off, a helicopter of Performance Class 1 must be able to clear all obstacles, vertically, by:
+a) 10.7 ft in VFR
+b) 35 m in IFR
+c) 35 m in VFR
+d) 10.7 m + .01 DR in IFR
+ D
+342. Define the term "Performance Class 1".
+a) Performance Class 1 operations are those operations such that, in the event of critical power unit failure, performance is available to enable the helicopter to safely continue the flight, except when the failure occurs early during the take-off manoeuvre or late in the landing manoeuvre, in which cases a forced landing may be required.
+b) Performance Class 1 operations are those with performance such that, in the event of failure of the critical power unit, the helicopter is able to land within the rejected take-off distance available or safely continue the flight to an appropriate landing area, depending on when the failure occurs.
+c) Performance Class 1 helicopters means multi-engine helicopters based on a critical engine failure concept which assures performance capability for continued safe flight in the event of an engine failure.
+d) Performance Class 1 operations are those operations such that, in the event of a power unit failure at any time during the flight, a forced landing may be required in a multi-engine helicopter but will be required in a single engine helicopter.
+B
+343. In performance class 1, having cleared the elevated heliport or heliplatform's edge, in case of an engine failure after the take-off decision point, the helicopter can clear any obstacle until the end of the take-off required distance with a margin of:
+a) 35 ft
+b) at least 15 ft vertically
+c) at least 35 ft
+d) at least 35 ft vertically
+ D
+344. In performance class 1, with one engine failed and the others operating normally, the helicopter's weight at the estimated time of landing must be such that a rate of climb of at least 100ft/mn at 200 ft above the altitude of:
+a) the destination heliport
+b) the destination or alternate/diversion heliport
+c) the take off heliport
+d) the alternate heliport
+ B
+345. In performance class 1, with one engine failed and the others operating normally, the helicopter's weight at the estimated time of landing must be such that a rate of climb of at least 150ft/mn at 1000 ft above the altitude of:
+a) the destination or alternate/diversion heliport
+b) the destination heliport
+c) the alternate heliport
+d) the take off heliport
+A
+346. In performance class 1, when the wind measuring equipment has not received official approval, and there is a headwind component, to determine landing performance an operator may take account of at:
+a) most, 50% of the reported headwind component
+b) most, 80% of the reported headwind component
+c) most, 40% of the reported headwind component
+d) least, 50% of the reported headwind component
+ A
+347. Performance such that, in the event of failure of a critical power unit, enables a helicopter to land within the rejected take-off distance available is:
+a) Performance Class 2.
+b) Performance Class 4.
+c) Performance Class 3.
+d) Performance Class 1.
+ D
